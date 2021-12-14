@@ -1,0 +1,1611 @@
+﻿Log file open, 11/16/21 00:34:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TotemsOfEarth
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.197533
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic Game/Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Engine.ini]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Engine.ini]
+[2021.11.15-17.34.08:070][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Engine.ini]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Engine.ini]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.15-17.34.08:070][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Engine.ini]
+[2021.11.15-17.34.08:070][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Engine.ini]
+[2021.11.15-17.34.08:074][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.15-17.34.08:074][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.15-17.34.08:075][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.15-17.34.08:075][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.15-17.34.08:075][  0]LogHAL: Display: Platform has ~ 16 GB [17102860288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.15-17.34.08:075][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.15-17.34.08:075][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.15-17.34.08:075][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Scalability.ini]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.15-17.34.08:076][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Engine.ini]
+[2021.11.15-17.34.08:076][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Config/Windows/Editor.ini]
+[2021.11.15-17.34.08:076][  0]LogInit: Computer: DESKTOP-8EPG0SH
+[2021.11.15-17.34.08:076][  0]LogInit: User: punna
+[2021.11.15-17.34.08:076][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.11.15-17.34.08:076][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.15-17.34.08:076][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.11.15-17.34.08:076][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.15-17.34.08:076][  0]LogMemory: Process Physical Memory: 146.66 MB used, 146.66 MB peak
+[2021.11.15-17.34.08:076][  0]LogMemory: Process Virtual Memory: 131.23 MB used, 131.23 MB peak
+[2021.11.15-17.34.08:076][  0]LogMemory: Physical Memory: 7594.65 MB used,  8715.91 MB free, 16310.56 MB total
+[2021.11.15-17.34.08:076][  0]LogMemory: Virtual Memory: 134208784.00 MB used,  8944.23 MB free, 134217728.00 MB total
+[2021.11.15-17.34.08:080][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.15-17.34.08:108][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.15-17.34.08:109][  0]LogInit: Using OS detected language (en-US).
+[2021.11.15-17.34.08:109][  0]LogInit: Using OS detected locale (th-TH).
+[2021.11.15-17.34.08:111][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.11.15-17.34.08:271][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.15-17.34.08:279][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.15-17.34.08:289][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.15-17.34.08:289][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.15-17.34.08:390][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.11.15-17.34.08:392][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.15-17.34.08:392][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.15-17.34.08:392][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.15-17.34.08:392][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.15-17.34.08:482][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060' (Feature Level 11_0)
+[2021.11.15-17.34.08:482][  0]LogD3D11RHI:       12143/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.15-17.34.08:484][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.15-17.34.08:484][  0]LogD3D11RHI:       0/0/8155 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.15-17.34.08:484][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.11.15-17.34.08:484][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060
+[2021.11.15-17.34.08:484][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.11.15-17.34.08:484][  0]LogD3D11RHI:     DeviceId    : 2504
+[2021.11.15-17.34.08:484][  0]LogD3D11RHI:     SubSysId    : 153610de
+[2021.11.15-17.34.08:484][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.11.15-17.34.08:484][  0]LogD3D11RHI:     DedicatedVideoMemory : 12732858368 bytes
+[2021.11.15-17.34.08:484][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.15-17.34.08:484][  0]LogD3D11RHI:     SharedSystemMemory : 8551430144 bytes
+[2021.11.15-17.34.08:484][  0]LogD3D11RHI:     AdapterLuid : 0 39545
+[2021.11.15-17.34.08:490][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.15-17.34.08:490][  0]LogD3D11RHI:     GPU DeviceId: 0x2504 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.15-17.34.08:490][  0]LogWindows: EnumDisplayDevices:
+[2021.11.15-17.34.08:490][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1)
+[2021.11.15-17.34.08:490][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.11.15-17.34.08:490][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.11.15-17.34.08:490][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.11.15-17.34.08:491][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.11.15-17.34.08:491][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2021.11.15-17.34.08:491][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2021.11.15-17.34.08:491][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2021.11.15-17.34.08:491][  0]LogRHI: Texture pool is 8500 MB (70% of 12143 MB)
+[2021.11.15-17.34.08:491][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2021.11.15-17.34.08:491][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060
+[2021.11.15-17.34.08:491][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.11.15-17.34.08:491][  0]LogD3D11RHI:     DeviceId    : 2504
+[2021.11.15-17.34.08:491][  0]LogD3D11RHI:     SubSysId    : 153610de
+[2021.11.15-17.34.08:491][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.11.15-17.34.08:491][  0]LogD3D11RHI:     DedicatedVideoMemory : 12732858368 bytes
+[2021.11.15-17.34.08:491][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.15-17.34.08:491][  0]LogD3D11RHI:     SharedSystemMemory : 8551430144 bytes
+[2021.11.15-17.34.08:491][  0]LogD3D11RHI:     AdapterLuid : 0 39545
+[2021.11.15-17.34.08:544][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.15-17.34.08:544][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.15-17.34.08:544][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.15-17.34.08:565][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.15-17.34.08:586][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.15-17.34.08:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.15-17.34.08:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.15-17.34.08:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.15-17.34.08:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.15-17.34.08:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.15-17.34.08:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.15-17.34.08:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.15-17.34.08:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.15-17.34.08:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.15-17.34.08:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.15-17.34.08:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.15-17.34.08:836][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.15-17.34.08:836][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.15-17.34.08:843][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.15-17.34.08:846][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.15-17.34.08:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.15-17.34.08:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.15-17.34.08:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.15-17.34.08:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.15-17.34.08:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.15-17.34.08:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.15-17.34.08:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.15-17.34.08:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.15-17.34.08:897][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.15-17.34.08:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.15-17.34.08:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.15-17.34.08:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.15-17.34.08:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.15-17.34.08:918][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.15-17.34.08:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.15-17.34.08:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.15-17.34.08:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.15-17.34.08:928][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.15-17.34.08:933][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.15-17.34.08:953][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.11.15-17.34.08:974][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.15-17.34.08:974][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Intermediate/Shaders/WorkingDirectory/10960/).
+[2021.11.15-17.34.08:974][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/punna/AppData/Local/Temp/UnrealShaderWorkingDir/0D2640A94AFB3C9AAD5DD19A0F987A2F/'.
+[2021.11.15-17.34.08:974][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.11.15-17.34.08:974][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.15-17.34.08:974][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.15-17.34.09:579][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.15-17.34.09:630][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/punna/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.15-17.34.09:630][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/punna/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.11.15-17.34.09:630][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.15-17.34.09:630][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.15-17.34.09:630][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.15-17.34.09:630][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.15-17.34.09:646][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.15-17.34.09:646][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.15-17.34.09:646][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.15-17.34.09:654][  0]LogDerivedDataCache: Speed tests for C:/Users/punna/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.11.15-17.34.09:654][  0]LogDerivedDataCache: Display: Performance to C:/Users/punna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1570.15MBs, RandomWriteSpeed=141.50MBs. Assigned SpeedClass 'Local'
+[2021.11.15-17.34.09:654][  0]LogDerivedDataCache: Using Local data cache path C:/Users/punna/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.15-17.34.09:655][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.15-17.34.09:655][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.15-17.34.09:700][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.15-17.34.09:701][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.15-17.34.09:719][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2021.11.15-17.34.09:925][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.15-17.34.09:925][  0]LogInit: Active device profile: [0000023675510B00][00000236749B6F80 49] Windows
+[2021.11.15-17.34.09:925][  0]LogInit: Profiles: [0000023675510B00][00000236749B6F80 49] Windows, [000002367549E200][0000023675269100 49] WindowsNoEditor, [0000023675511900][000002367526D280 49] WindowsServer, [000002367549EF00][00000236686CF400 49] WindowsClient, [0000023675513C00][00000236686D3580 49] IOS, [000002367549CF00][00000236686D7700 49] iPadAir, [0000023675513E00][00000236686DB880 49] iPadAir2, [0000023675438D00][0000023674B07B40 49] IPadPro, [0000023675438E00][0000023674B03B80 49] iPadAir3, [000002367549FC00][0000023674B0A180 49] iPadAir4, [000002367543B700][0000023674B0E300 49] iPadMini2, [000002367549F200][0000023674B12480 49] iPadMini3, [000002367543B900][0000023674B16600 49] iPadMini4, [000002367549F600][0000023667AE0740 49] iPadMini5, [0000023675440600][0000023674B32980 49] iPhone6, [0000023675440700][0000023674B1A9C0 49] iPodTouch6, [0000023675512600][0000023667AD4C40 49] iPhone7, [0000023675512800][0000023667ACCC80 49] iPodTouch7, [0000023675440100][0000023667AD8E00 49] iPhone5S, [0000023675438700][0000023667ADCF80 49] iPhone6Plus, [0000023675442500][0000023674BA7100 49] iPhone6S, [0000023675439400][0000023674BAF280 49] iPhone6SPlus, [0000023675443B00][0000023674BB3400 49] iPhone7Plus, [000002367543B600][0000023674BB7580 49] iPhoneSE, [0000023675512C00][0000023674BBB700 49] iPhone8, [0000023675438600][0000023674BBF880 49] iPhone8Plus, [0000023675512100][0000023674BC3A00 49] iPhoneX, [000002367543A900][000002367506DB80 49] iPhoneXS, [0000023675513D00][0000023675070180 49] iPhoneXSMax, [000002367543AE00][0000023675074300 49] iPhoneXR, [0000023675513F00][0000023675078480 49] iPhone11, [0000023675439F00][000002367507C600 49] iPhone11Pro, [0000023675510600][0000023675080780 49] iPhone11ProMax, [000002367543A000][0000023675084900 49] iPhoneSE2, [0000023675513A00][0000023667AD0A40 49] iPhone12Mini, [000002367543A700][00000236749B2B80 49] iPhone12, [0000023675512A00][0000023667AE4CC0 49] iPhone12Pro, [0000023675438500][0000023674BAAE40 49] iPhone12ProMax, [0000023675513900][0000023675088FC0 49] iPadPro105, [0000023675439800][000002367508D140 49] iPadPro129, [0000023675510C00][00000236750912C0 49] iPadPro97, [000002367543A400][0000023675095440 49] iPadPro2_129, [0000023675510800][0000023674C995C0 49] iPad5, [0000023675438400][0000023674C9D740 49] iPad6, [0000023675511B00][0000023674CA18C0 49] iPad7, [000002367543B500][0000023674CA5A40 49] iPad8, [0000023675511F00][0000023674CA9BC0 49] iPadPro11, [0000023675439A00][0000023674CAC1C0 49] iPadPro2_11, [0000023675512500][0000023674CB0340 49] iPadPro3_129, [000002367543A200][0000023674CB44C0 49] iPadPro4_129, [0000023675511600][0000023674CB8640 49] AppleTV, [000002367543BD00][0000023674CBC7C0 49] AppleTV4K, [0000023675511A00][0000023668682940 49] TVOS, [0000023675438A00][0000023668686AC0 49] Mac, [0000023675512400][0000023674FD2C00 49] MacClient, [000002367543AC00][000002366868AD40 49] MacNoEditor, [0000023675513500][000002366868EE80 49] MacServer, [000002367543A300][0000023668692FC0 49] Linux, [0000023675510300][000002366869B140 49] LinuxAArch64, [000002367543A100][000002366869F2C0 49] LinuxNoEditor, [0000023675512300][00000236686A3440 49] LinuxAArch64NoEditor, [000002367543BC00][00000236686A75C0 49] LinuxClient, [0000023675510F00][00000236686AB740 49] LinuxAArch64Client, [0000023675439200][00000236686AF8C0 49] LinuxServer, [0000023675513000][00000236686B3A40 49] LinuxAArch64Server, [0000023675439600][00000236686B7BC0 49] Android, [0000023675511200][00000236686BA1C0 49] Android_Low, [000002367543BE00][0000023675002340 49] Android_Mid, [0000023675510100][00000236750064C0 49] Android_High, [000002367543AA00][000002367500A640 49] Android_Default, [0000023675511300][000002367500E7C0 49] Android_Adreno4xx, [000002367549E400][0000023675012940 49] Android_Adreno5xx_Low, [0000023675441C00][0000023675016AC0 49] Android_Adreno5xx, [000002367549FF00][000002367501AC40 49] Android_Adreno6xx, [0000023675442700][0000023668696D80 49] Android_Adreno6xx_Vulkan, [000002367549F700][000002367501EEC0 49] Android_Mali_T6xx, [0000023675440F00][0000023675023000 49] Android_Mali_T7xx, [000002367549DC00][0000023675027140 49] Android_Mali_T8xx, [0000023675441F00][000002367502F2C0 49] Android_Mali_G71, [000002367549ED00][0000023675033440 49] Android_Mali_G72, [0000023675442F00][00000236750375C0 49] Android_Mali_G72_Vulkan, [000002367549E600][000002367503B740 49] Android_Mali_G76, [0000023675442200][000002367503F8C0 49] Android_Mali_G76_Vulkan, [000002367549CE00][0000023675043A40 49] Android_Mali_G77, [0000023675441400][0000023675047BC0 49] Android_Mali_G77_Vulkan, [000002367549F800][000002367504A1C0 49] Android_Mali_G78, [0000023675441300][000002367504E340 49] Android_Mali_G78_Vulkan, [000002367549D600][00000236750524C0 49] Android_Mali_G710, [0000023675443D00][0000023675056640 49] Android_Mali_G710_Vulkan, [000002367549C700][000002367505A7C0 49] Android_Vulkan_SM5, [0000023675441B00][000002367505E940 49] Android_PowerVR_G6xxx, [000002367549CA00][0000023675062AC0 49] Android_PowerVR_GT7xxx, [0000023675440200][0000023675066C40 49] Android_PowerVR_GE8xxx, [000002367549F900][0000023674B36DC0 49] Android_PowerVR_GM9xxx, [0000023675440A00][0000023674B3AF40 49] Android_PowerVR_GM9xxx_Vulkan, [000002367549D000][000002367502B080 49] Android_TegraK1, [0000023675441700][0000023674B3F1C0 49] Android_Unknown_Vulkan, [000002367549D900][0000023674B43300 49] Lumin, [0000023675443C00][0000023674B4B480 49] Lumin_Desktop, [000002367549D700][0000023674B4F600 49] HoloLens, 
+[2021.11.15-17.34.10:027][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.15-17.34.10:027][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.15-17.34.10:027][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.15-17.34.10:027][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.15-17.34.10:027][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.15-17.34.10:040][  0]LogNetVersion: TotemsOfEarth 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2481923679)
+[2021.11.15-17.34.10:330][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.15-17.34.10:379][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.15-17.34.10:385][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.11.15-17.34.10:385][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.11.15-17.34.10:385][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.15-17.34.10:575][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 49151AC744BF9575C2E845AD694581C5 | Instance: ABE8EB264DC95425B945D5A720CF90F1 (DESKTOP-8EPG0SH-10960).
+[2021.11.15-17.34.10:603][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.15-17.34.10:603][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.15-17.34.10:603][  0]LogPython: Using Python 3.7.7
+[2021.11.15-17.34.11:103][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.15-17.34.11:108][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.15-17.34.11:212][  0]SourceControl: Source control is disabled
+[2021.11.15-17.34.11:212][  0]SourceControl: Source control is disabled
+[2021.11.15-17.34.11:215][  0]SourceControl: Source control is disabled
+[2021.11.15-17.34.11:218][  0]SourceControl: Source control is disabled
+[2021.11.15-17.34.11:240][  0]SourceControl: Source control is disabled
+[2021.11.15-17.34.11:248][  0]LogUProjectInfo: Found projects:
+[2021.11.15-17.34.11:253][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.15-17.34.11:253][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.15-17.34.11:254][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.15-17.34.11:379][  0]LogOpenImageDenoise: OIDN starting up
+[2021.11.15-17.34.11:410][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.15-17.34.11:426][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.15-17.34.11:426][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.15-17.34.11:518][  0]LogCollectionManager: Loaded 0 collections in 0.000622 seconds
+[2021.11.15-17.34.11:537][  0]LogFileCache: Scanning file cache for directory 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Collections/' took 0.00s
+[2021.11.15-17.34.11:538][  0]LogFileCache: Scanning file cache for directory 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Developers/punna/Collections/' took 0.00s
+[2021.11.15-17.34.11:538][  0]LogFileCache: Scanning file cache for directory 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Collections/' took 0.00s
+[2021.11.15-17.34.11:538][  0]LogOcInput: OculusInput pre-init called
+[2021.11.15-17.34.11:660][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.15-17.34.11:660][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.15-17.34.11:708][  0]LogEngine: Initializing Engine...
+[2021.11.15-17.34.11:710][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.11.15-17.34.11:710][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.15-17.34.11:710][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.15-17.34.11:711][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.15-17.34.11:813][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.15-17.34.11:819][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.15-17.34.11:819][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.15-17.34.11:822][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.11.15-17.34.11:822][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.11.15-17.34.11:822][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.15-17.34.11:822][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.15-17.34.11:822][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.15-17.34.11:822][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.15-17.34.11:822][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.15-17.34.11:822][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.15-17.34.11:822][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.15-17.34.11:822][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.15-17.34.11:822][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.15-17.34.11:823][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.15-17.34.11:823][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.15-17.34.11:823][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.15-17.34.11:823][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.15-17.34.11:823][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.15-17.34.11:830][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.15-17.34.11:830][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.15-17.34.11:844][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.11.15-17.34.11:849][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.15-17.34.11:851][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.15-17.34.11:851][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.15-17.34.11:852][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.15-17.34.11:852][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.15-17.34.11:852][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.15-17.34.11:853][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.15-17.34.11:853][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.15-17.34.11:853][  0]LogInit: FAudioDevice initialized.
+[2021.11.15-17.34.11:853][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.15-17.34.11:853][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.15-17.34.11:905][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/punna/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.15-17.34.11:905][  0]LogInit: Texture streaming: Enabled
+[2021.11.15-17.34.11:915][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
+[2021.11.15-17.34.11:918][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.15-17.34.11:918][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={ACECC4DD-4134-56CC-20AD-85BE2CC65724}
+[2021.11.15-17.34.11:918][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.15-17.34.11:920][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.15-17.34.11:944][  0]LogInit: Transaction tracking system initialized
+[2021.11.15-17.34.11:957][  0]BlueprintLog: New page: Editor Load
+[2021.11.15-17.34.11:998][  0]LocalizationService: Localization service is disabled
+[2021.11.15-17.34.12:014][  0]TimingProfiler: Initialize
+[2021.11.15-17.34.12:014][  0]TimingProfiler: OnSessionChanged
+[2021.11.15-17.34.12:014][  0]LoadingProfiler: Initialize
+[2021.11.15-17.34.12:014][  0]LoadingProfiler: OnSessionChanged
+[2021.11.15-17.34.12:014][  0]NetworkingProfiler: Initialize
+[2021.11.15-17.34.12:014][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.15-17.34.12:014][  0]MemoryProfiler: Initialize
+[2021.11.15-17.34.12:014][  0]MemoryProfiler: OnSessionChanged
+[2021.11.15-17.34.12:055][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.15-17.34.12:056][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.15-17.34.12:056][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.15-17.34.12:117][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.15-17.34.12:117][  0]LogCook: Display: Mobile HDR setting 0
+[2021.11.15-17.34.12:254][  0]LogFileCache: Scanning file cache for directory 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/' took 0.00s
+[2021.11.15-17.34.12:380][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.15-17.34.12:381][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.15-17.34.12:381][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.15-17.34.12:383][  0]SourceControl: Source control is disabled
+[2021.11.15-17.34.12:383][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.064
+[2021.11.15-17.34.12:383][  0]Cmd: MAP LOAD FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.15-17.34.12:384][  0]LightingResults: New page: Lighting Build
+[2021.11.15-17.34.12:385][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-17.34.12:385][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-17.34.12:385][  0]MapCheck: New page: Map Check
+[2021.11.15-17.34.12:385][  0]LightingResults: New page: Lighting Build
+[2021.11.15-17.34.12:394][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.15-17.34.12:397][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.11.15-17.34.12:599][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
+[2021.11.15-17.34.12:600][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.11.15-17.34.12:675][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.15-17.34.12:686][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.11.15-17.34.12:699][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.15-17.34.12:699][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2021.11.15-17.34.12:699][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.315
+[2021.11.15-17.34.12:701][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.381
+[2021.11.15-17.34.12:814][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-17.34.12:820][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-17.34.12:826][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-17.34.12:833][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-17.34.12:846][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0104 seconds. Added 3822 classes and 928 folders.
+[2021.11.15-17.34.12:848][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.15-17.34.12:849][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.15-17.34.12:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.15-17.34.12:849][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:849][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.11.15-17.34.12:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.11.15-17.34.12:850][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.15-17.34.12:850][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:850][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.15-17.34.12:850][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:850][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.11.15-17.34.12:850][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.11.15-17.34.12:850][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.15-17.34.12:850][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:850][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.15-17.34.12:850][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:850][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.11.15-17.34.12:850][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.11.15-17.34.12:851][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.15-17.34.12:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.15-17.34.12:851][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:851][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.11.15-17.34.12:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.11.15-17.34.12:851][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.15-17.34.12:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.15-17.34.12:851][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:851][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.11.15-17.34.12:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.11.15-17.34.12:852][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.15-17.34.12:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.15-17.34.12:852][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:852][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.11.15-17.34.12:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.15-17.34.12:852][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.15-17.34.12:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.15-17.34.12:852][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:852][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.11.15-17.34.12:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.15-17.34.12:852][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.15-17.34.12:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.15-17.34.12:852][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:852][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.11.15-17.34.12:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.15-17.34.12:853][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.15-17.34.12:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.15-17.34.12:853][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:853][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.11.15-17.34.12:853][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.15-17.34.12:853][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.15-17.34.12:853][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:853][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.15-17.34.12:853][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.11.15-17.34.12:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.15-17.34.12:854][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.15-17.34.12:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.15-17.34.12:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.11.15-17.34.12:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.11.15-17.34.12:854][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.15-17.34.12:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.15-17.34.12:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.11.15-17.34.12:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.15-17.34.12:855][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.15-17.34.12:855][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:855][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.15-17.34.12:855][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:855][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.11.15-17.34.12:855][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.15-17.34.12:855][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.15-17.34.12:855][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:855][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.15-17.34.12:855][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:855][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.11.15-17.34.12:855][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.11.15-17.34.12:856][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.15-17.34.12:856][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:856][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.15-17.34.12:856][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:856][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.11.15-17.34.12:856][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.15-17.34.12:856][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.15-17.34.12:856][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:856][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.15-17.34.12:856][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:856][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.11.15-17.34.12:856][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.15-17.34.12:856][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.15-17.34.12:856][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:856][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.15-17.34.12:856][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:856][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.11.15-17.34.12:856][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.15-17.34.12:857][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.15-17.34.12:857][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:857][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.15-17.34.12:857][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:857][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.11.15-17.34.12:857][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.11.15-17.34.12:857][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.15-17.34.12:857][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:857][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.15-17.34.12:857][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:857][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.11.15-17.34.12:857][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.15-17.34.12:858][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.15-17.34.12:858][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:858][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.15-17.34.12:858][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:858][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.11.15-17.34.12:858][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.15-17.34.12:858][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.15-17.34.12:858][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:858][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.15-17.34.12:858][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:858][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.11.15-17.34.12:858][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.15-17.34.12:858][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.15-17.34.12:858][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:858][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.15-17.34.12:858][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:858][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.11.15-17.34.12:858][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.11.15-17.34.12:859][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.15-17.34.12:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.15-17.34.12:859][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:859][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.11.15-17.34.12:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.15-17.34.12:859][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.15-17.34.12:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.15-17.34.12:859][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:859][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.11.15-17.34.12:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.15-17.34.12:860][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.15-17.34.12:860][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:860][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.15-17.34.12:860][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:860][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.11.15-17.34.12:860][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.15-17.34.12:860][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.15-17.34.12:860][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.15-17.34.12:860][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.15-17.34.12:860][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.15-17.34.12:860][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:E:/Epic Game/Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.11.15-17.34.12:860][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.15-17.34.12:890][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.15-17.34.12:891][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0001 seconds. Added 2 classes and 0 folders.
+[2021.11.15-17.34.12:978][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.15-17.34.12:980][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.15-17.34.12:982][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.15-17.34.13:054][  0]LogRenderer: Reallocating scene render targets to support 1192x600 Format 10 NumSamples 1 (Frame:1).
+[2021.11.15-17.34.13:134][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.15-17.34.13:134][  0]LogLoad: (Engine Initialization) Total time: 5.81 seconds
+[2021.11.15-17.34.13:134][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.15-17.34.13:178][  0]LogAssetRegistry: Asset discovery search completed in 3.4601 seconds
+[2021.11.15-17.34.13:183][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.11.15-17.34.13:185][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.15-17.34.13:821][  2]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.15-17.34.14:488][  4]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.15-17.34.38:065][531]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/Map/Tileset/Ground/Mossy_-_TileSet__resize_896__TileMap.Mossy_-_TileSet__resize_896__TileMap
+[2021.11.15-17.34.38:096][531]LogSlate: Took 0.000154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.15-17.34.38:118][531]LogRenderer: Reallocating scene render targets to support 1192x920 Format 10 NumSamples 1 (Frame:1).
+[2021.11.15-17.35.18:762][902]Cmd: TRANSACTION UNDO
+[2021.11.15-17.35.18:762][902]LogEditorTransaction: Undo Toggle Layer Visibility
+[2021.11.15-17.35.19:064][911]Cmd: TRANSACTION UNDO
+[2021.11.15-17.35.19:064][911]LogEditorTransaction: Undo Tile Painting
+[2021.11.15-17.35.19:430][924]Cmd: TRANSACTION UNDO
+[2021.11.15-17.35.19:430][924]LogEditorTransaction: Undo Tile Painting
+[2021.11.15-17.35.46:947][147]Cmd: TRANSACTION UNDO
+[2021.11.15-17.35.46:947][147]LogEditorTransaction: Undo Toggle Layer Visibility
+[2021.11.15-17.35.49:319][365]Cmd: TRANSACTION UNDO
+[2021.11.15-17.35.49:319][365]LogEditorTransaction: Undo Tile Painting
+[2021.11.15-17.35.50:470][488]Cmd: TRANSACTION REDO
+[2021.11.15-17.35.50:470][488]LogEditorTransaction: Redo Tile Painting
+[2021.11.15-17.35.50:802][516]Cmd: TRANSACTION REDO
+[2021.11.15-17.35.50:802][516]LogEditorTransaction: Redo Toggle Layer Visibility
+[2021.11.15-17.36.46:064][ 94]Cmd: TRANSACTION UNDO
+[2021.11.15-17.36.46:064][ 94]LogEditorTransaction: Undo Tile Painting
+[2021.11.15-17.38.48:583][ 71]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_TileSet__resize_896__Til912EB6624F441D5E61B755BE08639937.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/Mossy_-_TileSet__resize_896__TileMap.uasset'
+[2021.11.15-17.38.48:594][ 71]AssetCheck: New page: Asset Save: Mossy_-_TileSet__resize_896__TileMap
+[2021.11.15-17.38.48:594][ 71]LogContentValidation: Display: Validating PaperTileMap /Game/Map/Tileset/Ground/Mossy_-_TileSet__resize_896__TileMap.Mossy_-_TileSet__resize_896__TileMap
+[2021.11.15-17.38.50:517][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.15-17.38.50:564][271]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/2DSideScrollerExampleMap08634DB348928BD5B924039451CCA1BB.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.11.15-17.38.50:576][271]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/2DSideScrollerExampleMap_BuiltDa78629F7542C21DD958E889850B1CC275.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.11.15-17.38.50:587][271]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.15-17.38.50:587][271]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.11.15-17.38.50:587][271]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.11.15-17.38.51:137][330]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.15-17.38.51:141][330]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.15-17.38.51:142][330]PIE: New page: PIE session: 2DSideScrollerExampleMap (16 พ.ย. 2564 07:38:51)
+[2021.11.15-17.38.51:143][330]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.15-17.38.51:144][330]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.15-17.38.51:144][330]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.11.15-17.38.51:147][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003101s)
+[2021.11.15-17.38.51:147][330]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.11.15-17.38.51:150][330]LogPlayLevel: PIE: World Init took: (0.002818s)
+[2021.11.15-17.38.51:150][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006023s)
+[2021.11.15-17.38.51:154][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.11.15-17.38.51:156][330]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.15-17.38.51:157][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.15-17.38.51:157][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.15-17.38.51:157][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.15-17.38.51:157][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.15-17.38.51:157][330]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.15-17.38.51:157][330]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.15-17.38.51:157][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.15-17.38.51:157][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.15-17.38.51:157][330]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.15-17.38.51:157][330]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.15-17.38.51:157][330]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.15-17.38.51:157][330]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.15-17.38.51:159][330]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.15-17.38.51:159][330]LogAudioMixer: Display: 1: FrontRight
+[2021.11.15-17.38.51:167][330]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.11.15-17.38.51:167][330]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.15-17.38.51:167][330]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.15-17.38.51:167][330]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.15-17.38.51:167][330]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.15-17.38.51:168][330]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.15-17.38.51:168][330]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.15-17.38.51:168][330]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.15-17.38.51:168][330]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.15-17.38.51:168][330]LogInit: FAudioDevice initialized.
+[2021.11.15-17.38.51:168][330]LogAudio: Display: Audio Device (ID: 2) registered with world '2DSideScrollerExampleMap'.
+[2021.11.15-17.38.51:178][330]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2021.11.15-17.38.51:180][330]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2021.11.16-00.38.51
+[2021.11.15-17.38.51:180][330]LogWorld: Bringing up level for play took: 0.001385
+[2021.11.15-17.38.51:180][330]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.11.15-17.38.51:183][330]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.11.15-17.38.51:184][330]PIE: Server logged in
+[2021.11.15-17.38.51:184][330]PIE: Play in editor total start time 0.044 seconds.
+[2021.11.15-17.38.54:583][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-17.38.54:583][730]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2021.11.15-17.38.54:583][730]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-17.38.54:584][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-17.38.54:593][730]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.15-17.38.54:595][730]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-17.38.54:597][730]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.15-17.38.54:598][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.15-17.38.54:599][730]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.15-17.38.54:602][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.11.15-17.38.54:655][734]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.11.15-17.46.30:866][ 36]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Mossy_-_TileSet__resize_896__TileMap3)
+[2021.11.15-17.48.53:821][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.11.15-17.48.53:826][673]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.013
+[2021.11.15-17.48.53:826][673]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Map/Tileset/Ground/Mossy_-_TileSet__resize_896__TileMap] ([1] browsable assets)...
+[2021.11.15-17.48.53:826][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map/Tileset/Ground/Mossy_-_TileSet__resize_896__TileMap]
+[2021.11.15-17.48.53:875][673]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_TileSet__resize_896__Til1AB33C974604F1CA846C93876A44EE12.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Autosaves/Game/Map/Tileset/Ground/Mossy_-_TileSet__resize_896__TileMap_Auto1.uasset'
+[2021.11.15-17.48.53:876][673]LogFileHelpers: Auto-saving content packages took 0.050
+[2021.11.15-18.42.41:021][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.11.15-18.42.43:406][892]LogSlate: Window 'Save Content' being destroyed
+[2021.11.15-18.42.44:283][975]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.11.15-18.42.44:296][975]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/2DSideScrollerExampleMap54E679C543155CCD0162039FD8ACCDD5.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2021.11.15-18.42.44:306][975]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/2DSideScrollerExampleMap_BuiltDa681334494FF2915B0E3D9F8F8C730B47.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2021.11.15-18.42.44:317][975]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.15-18.42.44:317][975]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2021.11.15-18.42.44:317][975]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.11.15-18.42.45:359][ 71]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_TileSet__resize_896__Til21EE35614F6B836C25F365971CA3A3E1.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/Mossy_-_TileSet__resize_896__TileMap.uasset'
+[2021.11.15-18.42.45:367][ 71]AssetCheck: New page: Asset Save: Mossy_-_TileSet__resize_896__TileMap
+[2021.11.15-18.42.45:367][ 71]LogContentValidation: Display: Validating PaperTileMap /Game/Map/Tileset/Ground/Mossy_-_TileSet__resize_896__TileMap.Mossy_-_TileSet__resize_896__TileMap
+[2021.11.15-18.42.51:037][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.11.15-18.42.51:063][669]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.11.15-18.42.51:063][669]Cmd: MAP LOAD FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.15-18.42.51:063][669]LightingResults: New page: Lighting Build
+[2021.11.15-18.42.51:064][669]LoadErrors: New page: Loading map: 2DSideScrollerExampleMap.umap
+[2021.11.15-18.42.51:064][669]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperGroupedSpriteComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.PaperGroupedSpriteActor_1.RenderComponent)
+[2021.11.15-18.42.51:064][669]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperTileMapComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Mossy_-_TileSet__resize_896__TileMap_2.RenderComponent)
+[2021.11.15-18.42.51:064][669]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperTileMapComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Mossy_-_TileSet__resize_896__TileMap2_5.RenderComponent)
+[2021.11.15-18.42.51:102][669]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-18.42.51:102][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-18.42.51:102][669]MapCheck: New page: Map Check
+[2021.11.15-18.42.51:102][669]LightingResults: New page: Lighting Build
+[2021.11.15-18.42.51:106][669]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.15-18.42.51:109][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.11.15-18.42.51:115][669]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
+[2021.11.15-18.42.51:115][669]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.11.15-18.42.51:142][669]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.15-18.42.51:148][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.11.15-18.42.51:155][669]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.15-18.42.51:155][669]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2021.11.15-18.42.51:155][669]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.092
+[2021.11.15-18.42.53:287][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.42.53:297][905]LogAssetEditorSubsystem: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2021.11.15-18.42.53:297][905]Cmd: MAP LOAD FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.15-18.42.53:297][905]LightingResults: New page: Lighting Build
+[2021.11.15-18.42.53:297][905]LoadErrors: New page: Loading map: 2DSideScrollerExampleMap.umap
+[2021.11.15-18.42.53:298][905]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperGroupedSpriteComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.PaperGroupedSpriteActor_1.RenderComponent)
+[2021.11.15-18.42.53:298][905]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperTileMapComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Mossy_-_TileSet__resize_896__TileMap_2.RenderComponent)
+[2021.11.15-18.42.53:298][905]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperTileMapComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Mossy_-_TileSet__resize_896__TileMap2_5.RenderComponent)
+[2021.11.15-18.42.53:322][905]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-18.42.53:322][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-18.42.53:322][905]MapCheck: New page: Map Check
+[2021.11.15-18.42.53:322][905]LightingResults: New page: Lighting Build
+[2021.11.15-18.42.53:325][905]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.15-18.42.53:327][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.11.15-18.42.53:331][905]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
+[2021.11.15-18.42.53:332][905]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2021.11.15-18.42.53:355][905]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.15-18.42.53:361][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.11.15-18.42.53:368][905]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.15-18.42.53:368][905]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2021.11.15-18.42.53:368][905]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.071
+[2021.11.15-18.43.33:426][259]LogTexture: Display: Building textures: Mossy_-_BackgroundDecoration (OODLE_AutoDXT, 4096X4096)
+[2021.11.15-18.43.33:426][259]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.15-18.43.33:426][259]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.15-18.43.33:426][259]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.11.15-18.43.33:426][259]LogTexture: Display: Building textures: Mossy_-_FloatingPlatforms (BGRA8, 2048X2048)
+[2021.11.15-18.43.33:537][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/Boss_Map" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Boss_Map.uasset" SILENT=true
+[2021.11.15-18.43.33:547][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Boss_Map6180EC70475FB04A96B1D5B342E9DD92.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Boss_Map.uasset'
+[2021.11.15-18.43.33:553][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/Boss_Map_Sprite" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Boss_Map_Sprite.uasset" SILENT=true
+[2021.11.15-18.43.33:557][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Boss_Map_SpriteA3522A9A4606BD366A0B208FD414C2A4.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Boss_Map_Sprite.uasset'
+[2021.11.15-18.43.33:558][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Tileset/Ground/Boss_Map_Sprite" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/Boss_Map_Sprite.uasset" SILENT=true
+[2021.11.15-18.43.33:559][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Boss_Map_Sprite4F98258D452824D534192AB2EC061E2A.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/Boss_Map_Sprite.uasset'
+[2021.11.15-18.43.33:571][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resD17491954792659F1728148B4F95D707.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024_.uasset'
+[2021.11.15-18.43.33:675][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res203052E94E6D0DA4257436B8B1F2606E.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__TileSet.uasset'
+[2021.11.15-18.43.33:675][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/leaf1" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/leaf1.uasset" SILENT=true
+[2021.11.15-18.43.33:677][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/leaf15CA41E1144B388A9C1A88595B81DF388.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/leaf1.uasset'
+[2021.11.15-18.43.33:677][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Tileset/Ground/leaf1" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/leaf1.uasset" SILENT=true
+[2021.11.15-18.43.33:678][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/leaf189B0386C4E921C4389B4DB94D5F6BC90.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/leaf1.uasset'
+[2021.11.15-18.43.33:679][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/leaf2" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/leaf2.uasset" SILENT=true
+[2021.11.15-18.43.33:680][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/leaf2B5C9D84C4282247DAF52C6A85A7C7AC4.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/leaf2.uasset'
+[2021.11.15-18.43.33:680][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Tileset/Ground/leaf2" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/leaf2.uasset" SILENT=true
+[2021.11.15-18.43.33:681][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/leaf2973A86D9481DA179A8369A82BD97FB93.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/leaf2.uasset'
+[2021.11.15-18.43.33:682][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/leaf3" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/leaf3.uasset" SILENT=true
+[2021.11.15-18.43.33:683][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/leaf3D60A3B2C40BD40B57E196885F5BE5971.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/leaf3.uasset'
+[2021.11.15-18.43.33:683][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Tileset/Ground/leaf3" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/leaf3.uasset" SILENT=true
+[2021.11.15-18.43.33:684][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/leaf32A1AABDF4DBE9CF7972A2C98DBEC75F1.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/leaf3.uasset'
+[2021.11.15-18.43.33:685][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/leaf4" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/leaf4.uasset" SILENT=true
+[2021.11.15-18.43.33:686][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/leaf4DF617E504937FAD6B739209CEFB7E0FF.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/leaf4.uasset'
+[2021.11.15-18.43.33:687][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Tileset/Ground/leaf4" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/leaf4.uasset" SILENT=true
+[2021.11.15-18.43.33:687][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/leaf48A10E0914EBEFBB91BC2F2B36B873075.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/leaf4.uasset'
+[2021.11.15-18.43.33:695][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res3AC458274DFA8BE057ACC38123E6BD05.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_31.uasset'
+[2021.11.15-18.43.33:696][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res2D08E1AD442D35031BB6DD9890A6AF27.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_31.uasset'
+[2021.11.15-18.43.33:708][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_TileSet__resize_896_8813A2F54AF17A43A7D3CF8DC530744F.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_TileSet__resize_896_.uasset'
+[2021.11.15-18.43.33:721][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_TileSet__resize_896__Til3462CF104725137CB4F85294E0EC62C3.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_TileSet__resize_896__TileSet.uasset'
+[2021.11.15-18.43.33:767][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_TileSet__resize_896__Til1570A63F4801328FA6D5ADB9C15819AE.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_TileSet__resize_896__TileMap.uasset'
+[2021.11.15-18.43.33:769][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_TileSet__resize_896__Til0785BCB0468A7AC7291ECA808028A0AE.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/Mossy_-_TileSet__resize_896__TileMap.uasset'
+[2021.11.15-18.43.33:770][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/Rock1" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Rock1.uasset" SILENT=true
+[2021.11.15-18.43.33:772][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Rock1848F01AA4D4F9DD458491CA0C39D92C4.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Rock1.uasset'
+[2021.11.15-18.43.33:772][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Tileset/Ground/Rock1" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/Rock1.uasset" SILENT=true
+[2021.11.15-18.43.33:773][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Rock1C27365054484D9D4D6B00BBBFBBEA241.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/Rock1.uasset'
+[2021.11.15-18.43.33:774][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/Rock2" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Rock2.uasset" SILENT=true
+[2021.11.15-18.43.33:775][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Rock2474086DB4767D863436B68AD09104514.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Rock2.uasset'
+[2021.11.15-18.43.33:776][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Tileset/Ground/Rock2" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/Rock2.uasset" SILENT=true
+[2021.11.15-18.43.33:777][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Rock2CE29571743D1E080C2DC1E9346CBA8E6.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/Rock2.uasset'
+[2021.11.15-18.43.33:778][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/Rock3" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Rock3.uasset" SILENT=true
+[2021.11.15-18.43.33:779][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Rock30BA83ACB4B6D622ABC4BE38D4B35BE04.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Rock3.uasset'
+[2021.11.15-18.43.33:780][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Tileset/Ground/Rock3" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/Rock3.uasset" SILENT=true
+[2021.11.15-18.43.33:781][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Rock3380D3C2743D99DF27798C8BBE7BE1673.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/Rock3.uasset'
+[2021.11.15-18.43.33:781][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/seaweed1" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/seaweed1.uasset" SILENT=true
+[2021.11.15-18.43.33:783][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/seaweed1AFF3FA41475138991FC36DB44785D12F.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/seaweed1.uasset'
+[2021.11.15-18.43.33:783][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Tileset/Ground/seaweed1" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/seaweed1.uasset" SILENT=true
+[2021.11.15-18.43.33:784][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/seaweed1AB0ED4134FBD0E79EDB3D2BBEAED5B76.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/seaweed1.uasset'
+[2021.11.15-18.43.33:785][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/seaweed2" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/seaweed2.uasset" SILENT=true
+[2021.11.15-18.43.33:786][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/seaweed2B44CA6A44FF13AF57BC6B09F96763ABD.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/seaweed2.uasset'
+[2021.11.15-18.43.33:786][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Tileset/Ground/seaweed2" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/seaweed2.uasset" SILENT=true
+[2021.11.15-18.43.33:787][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/seaweed2B15AA04B47FB22EE7470FFB023550D07.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/seaweed2.uasset'
+[2021.11.15-18.43.33:788][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/vine1" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/vine1.uasset" SILENT=true
+[2021.11.15-18.43.33:789][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/vine12A60DA51403652C8EAC08C90C3890BA7.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/vine1.uasset'
+[2021.11.15-18.43.33:790][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Tileset/Ground/vine1" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/vine1.uasset" SILENT=true
+[2021.11.15-18.43.33:790][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/vine113F6BDE04A964D88A249EBA61BC3DA74.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/vine1.uasset'
+[2021.11.15-18.43.33:791][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/vine2" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/vine2.uasset" SILENT=true
+[2021.11.15-18.43.33:793][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/vine2A11DAFE54AF42585510EBB84471F80A2.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/vine2.uasset'
+[2021.11.15-18.43.33:793][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Tileset/Ground/vine2" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/vine2.uasset" SILENT=true
+[2021.11.15-18.43.33:794][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/vine2E90B8E03430E4DB30019EDAA39C1ED3C.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/vine2.uasset'
+[2021.11.15-18.43.33:795][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/vine3" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/vine3.uasset" SILENT=true
+[2021.11.15-18.43.33:796][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/vine38F28631C4479B317A614E4B461123B62.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/vine3.uasset'
+[2021.11.15-18.43.33:797][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Tileset/Ground/vine3" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/vine3.uasset" SILENT=true
+[2021.11.15-18.43.33:798][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/vine3BF0895124CC03CDF0D70AAA9A4A4F3CC.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/vine3.uasset'
+[2021.11.15-18.43.33:799][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/vine4" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/vine4.uasset" SILENT=true
+[2021.11.15-18.43.33:800][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/vine4956A71BC41556AA0BA1D4C9666044D8B.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/vine4.uasset'
+[2021.11.15-18.43.33:801][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map/Tileset/Ground/vine4" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/vine4.uasset" SILENT=true
+[2021.11.15-18.43.33:801][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/vine408F142834E15048E5825028B3B8235BF.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map/Tileset/Ground/vine4.uasset'
+[2021.11.15-18.43.33:805][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Mossy_-_BackgroundDecoration" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Mossy_-_BackgroundDecoration.uasset" SILENT=true
+[2021.11.15-18.43.33:830][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_BackgroundDecorationC7EC1F5A4A9B278F63778A97F3CB8C54.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Mossy_-_BackgroundDecoration.uasset'
+[2021.11.15-18.43.33:835][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Mossy_-_FloatingPlatforms" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Mossy_-_FloatingPlatforms.uasset" SILENT=true
+[2021.11.15-18.43.33:849][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_FloatingPlatforms893CE47047EC4AF3AB37EFA5027A25C6.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Mossy_-_FloatingPlatforms.uasset'
+[2021.11.15-18.43.33:856][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_FloatingPlatforms_Sprite8FDD3DC248221E6C309198B136CED200.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Mossy_-_FloatingPlatforms_Sprite_0.uasset'
+[2021.11.15-18.43.33:863][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_FloatingPlatforms_SpriteD7701A7F4715ED192638A5992E3B8279.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Mossy_-_FloatingPlatforms_Sprite_1.uasset'
+[2021.11.15-18.43.33:871][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_FloatingPlatforms_Sprite1CDDA402474AE2AADA4E0BB00B32AE8E.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Mossy_-_FloatingPlatforms_Sprite_2.uasset'
+[2021.11.15-18.43.33:878][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_FloatingPlatforms_SpriteACC5B13C4BE6331EB09DF1840D95EA30.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Mossy_-_FloatingPlatforms_Sprite_3.uasset'
+[2021.11.15-18.43.33:884][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_FloatingPlatforms_Sprite139929CE4AF713B07CEBBC8AE7EEC9AB.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Mossy_-_FloatingPlatforms_Sprite_4.uasset'
+[2021.11.15-18.43.33:891][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_FloatingPlatforms_SpriteD6659163452ECC1FDA97AFA2A955F472.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Mossy_-_FloatingPlatforms_Sprite_5.uasset'
+[2021.11.15-18.43.33:898][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_FloatingPlatforms_Sprite6FACA7BA473F71EA1C690D90247ED258.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Mossy_-_FloatingPlatforms_Sprite_6.uasset'
+[2021.11.15-18.43.33:905][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_FloatingPlatforms_SpriteA3135FE04DE761CBF33DD88BC287B7D3.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Mossy_-_FloatingPlatforms_Sprite_7.uasset'
+[2021.11.15-18.43.33:913][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_FloatingPlatforms_Sprite6DF5A30C43A0FCFF434836BBE945D5F4.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Mossy_-_FloatingPlatforms_Sprite_8.uasset'
+[2021.11.15-18.43.33:919][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_FloatingPlatforms_SpriteCE1FFEEF4B212E51776F7086ED19100C.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Mossy_-_FloatingPlatforms_Sprite_9.uasset'
+[2021.11.15-18.43.33:927][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res6DB46DB04B2D622DF0DF4D9B14E3639B.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_0.uasset'
+[2021.11.15-18.43.33:936][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resBBD615B642E11B594A8A1AB029FF23BA.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_1.uasset'
+[2021.11.15-18.43.33:943][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resA1101BD645F375E5B18DDFBD4BD1AE40.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_10.uasset'
+[2021.11.15-18.43.33:950][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resBC5BDC6A4112F2499357B680D13EB9B1.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_11.uasset'
+[2021.11.15-18.43.33:958][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res2C7271CF449F9FDDC231918A350322E5.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_12.uasset'
+[2021.11.15-18.43.33:965][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res28BBA87841129078CF7836B95F855ED7.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_13.uasset'
+[2021.11.15-18.43.33:973][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res9D79DFB842F26F8187F52EABF4B1AF1A.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_14.uasset'
+[2021.11.15-18.43.33:980][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resE88A739045FE4DE24C73D5A003E83B9B.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_15.uasset'
+[2021.11.15-18.43.33:987][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resF7D9D4D5413A837D9EF532B77615A9DB.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_16.uasset'
+[2021.11.15-18.43.33:994][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res5EC4C1E243F4CDE4043F26892A882773.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_17.uasset'
+[2021.11.15-18.43.34:001][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resE2F8EEBB42804D8E8567E3A4E5F345C5.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_18.uasset'
+[2021.11.15-18.43.34:008][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resC213C6444846A3C46FCF2BAC24454787.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_19.uasset'
+[2021.11.15-18.43.34:015][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resC7BB350A400268A53F6396A0F39362FF.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_2.uasset'
+[2021.11.15-18.43.34:023][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resAE2371D6409E2D7BDD451C9FF623BE52.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_20.uasset'
+[2021.11.15-18.43.34:030][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res28F8704146E620AE61D718BB949EC398.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_21.uasset'
+[2021.11.15-18.43.34:037][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res7200CA0D489B4EC3D02B70A0EF7B4A14.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_22.uasset'
+[2021.11.15-18.43.34:045][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res642B52AA47214F4B22303F989E1D1927.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_23.uasset'
+[2021.11.15-18.43.34:052][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resE93A1D7D47D8C75B633A9F9D99E756A6.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_24.uasset'
+[2021.11.15-18.43.34:060][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resC12E35684A7ADFA421F751A95BB525A0.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_25.uasset'
+[2021.11.15-18.43.34:067][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res8DA7571A4B70D7F29E5F49BCDEBF4E2B.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_26.uasset'
+[2021.11.15-18.43.34:074][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res4E20EF904A1D142B671994A852C41A77.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_27.uasset'
+[2021.11.15-18.43.34:081][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resBE11B7BA42ED24B205AD4F96E4D5DC1E.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_28.uasset'
+[2021.11.15-18.43.34:088][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res46B7B455428A9405E4FAE882D19D808F.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_29.uasset'
+[2021.11.15-18.43.34:096][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res8BF4432E419263A969FC9188758C8B44.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_3.uasset'
+[2021.11.15-18.43.34:103][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res7F7012414F1E532BAA0157B24740A715.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_30.uasset'
+[2021.11.15-18.43.34:111][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res455B7CD04CE68A731479D68D677668E6.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_32.uasset'
+[2021.11.15-18.43.34:118][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resE69922D8453DCE36A0DC50B6722A5280.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_4.uasset'
+[2021.11.15-18.43.34:125][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res4E00F43B44D365DE81F34BBEC298116D.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_5.uasset'
+[2021.11.15-18.43.34:133][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resDBC47A1C46838A6F49526F8312CB2B50.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_6.uasset'
+[2021.11.15-18.43.34:140][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res9CD786F3463248FA6BAB2C8D74E1B38F.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_7.uasset'
+[2021.11.15-18.43.34:147][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__res9D6DF7434B9D4228A210D0A52F90D26F.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_8.uasset'
+[2021.11.15-18.43.34:154][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Mossy_-_Decorations_Hazards__resE3228DCD4F949A8C253520B9A053302C.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_9.uasset'
+[2021.11.15-18.43.34:159][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/qQnJwE" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/qQnJwE.uasset" SILENT=true
+[2021.11.15-18.43.34:166][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/qQnJwEDDDC6BDE481EDA467417BFB04D592133.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/qQnJwE.uasset'
+[2021.11.15-18.43.34:171][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map01/Tileset/Ground/qQnJwE_Sprite" FILE="C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/qQnJwE_Sprite.uasset" SILENT=true
+[2021.11.15-18.43.34:176][259]LogSavePackage: Moving 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/qQnJwE_Sprite76E6AC71471295D467C6ABB6637EE8F8.tmp' to 'C:/Users/punna/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Map01/Tileset/Ground/qQnJwE_Sprite.uasset'
+[2021.11.15-18.43.34:300][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.11.15-18.43.34:310][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.11.15-18.43.34:313][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.43.34:315][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.43.34:318][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:321][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:324][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:327][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.11.15-18.43.34:330][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.43.34:333][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:335][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.11.15-18.43.34:339][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.43.34:341][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:344][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.43.34:347][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.43.34:350][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.43.34:353][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:356][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.43.34:359][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.43.34:362][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:364][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.15-18.43.34:367][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.43.34:370][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.11.15-18.43.34:373][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.43.34:376][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.11.15-18.43.34:379][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.43.34:382][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:384][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.15-18.43.34:387][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:390][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.15-18.43.34:393][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.43.34:396][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.43.34:399][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.43.34:402][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.43.34:405][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:408][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.11.15-18.43.34:410][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.43.34:413][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:416][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:419][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:421][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:424][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:427][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.11.15-18.43.34:430][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.43.34:433][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:436][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.11.15-18.43.34:439][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.43.34:442][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.11.15-18.43.34:445][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:447][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.43.34:450][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.43.34:458][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.11.15-18.43.34:462][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.43.34:507][259]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.15-18.43.34:507][259]LogContentValidation: Display: Validating Texture2D /Game/Map01/Tileset/Ground/Boss_Map.Boss_Map
+[2021.11.15-18.43.34:507][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Boss_Map_Sprite.Boss_Map_Sprite
+[2021.11.15-18.43.34:507][259]LogContentValidation: Display: Validating Texture2D /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024_.Mossy_-_Decorations_Hazards__resize_1024_
+[2021.11.15-18.43.34:507][259]LogContentValidation: Display: Validating PaperTileSet /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__TileSet.Mossy_-_Decorations_Hazards__resize_1024__TileSet
+[2021.11.15-18.43.34:507][259]LogContentValidation: Display: Validating PaperTileMap /Game/Map01/Tileset/Ground/leaf1.leaf1
+[2021.11.15-18.43.34:507][259]LogContentValidation: Display: Validating PaperTileMap /Game/Map01/Tileset/Ground/leaf2.leaf2
+[2021.11.15-18.43.34:507][259]LogContentValidation: Display: Validating PaperTileMap /Game/Map01/Tileset/Ground/leaf3.leaf3
+[2021.11.15-18.43.34:507][259]LogContentValidation: Display: Validating PaperTileMap /Game/Map01/Tileset/Ground/leaf4.leaf4
+[2021.11.15-18.43.34:507][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_31.Mossy_-_Decorations_Hazards__resize_1024__Sprite_31
+[2021.11.15-18.43.34:507][259]LogContentValidation: Display: Validating Texture2D /Game/Map01/Tileset/Ground/Mossy_-_TileSet__resize_896_.Mossy_-_TileSet__resize_896_
+[2021.11.15-18.43.34:507][259]LogContentValidation: Display: Validating PaperTileSet /Game/Map01/Tileset/Ground/Mossy_-_TileSet__resize_896__TileSet.Mossy_-_TileSet__resize_896__TileSet
+[2021.11.15-18.43.34:507][259]LogContentValidation: Display: Validating PaperTileMap /Game/Map01/Tileset/Ground/Mossy_-_TileSet__resize_896__TileMap.Mossy_-_TileSet__resize_896__TileMap
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperTileMap /Game/Map01/Tileset/Ground/Rock1.Rock1
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperTileMap /Game/Map01/Tileset/Ground/Rock2.Rock2
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperTileMap /Game/Map01/Tileset/Ground/Rock3.Rock3
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperTileMap /Game/Map01/Tileset/Ground/seaweed1.seaweed1
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperTileMap /Game/Map01/Tileset/Ground/seaweed2.seaweed2
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperTileMap /Game/Map01/Tileset/Ground/vine1.vine1
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperTileMap /Game/Map01/Tileset/Ground/vine2.vine2
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperTileMap /Game/Map01/Tileset/Ground/vine3.vine3
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperTileMap /Game/Map01/Tileset/Ground/vine4.vine4
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Mossy_-_FloatingPlatforms_Sprite_5.Mossy_-_FloatingPlatforms_Sprite_5
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Mossy_-_FloatingPlatforms_Sprite_4.Mossy_-_FloatingPlatforms_Sprite_4
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Mossy_-_FloatingPlatforms_Sprite_3.Mossy_-_FloatingPlatforms_Sprite_3
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Mossy_-_FloatingPlatforms_Sprite_2.Mossy_-_FloatingPlatforms_Sprite_2
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Mossy_-_FloatingPlatforms_Sprite_1.Mossy_-_FloatingPlatforms_Sprite_1
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Mossy_-_FloatingPlatforms_Sprite_0.Mossy_-_FloatingPlatforms_Sprite_0
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating Texture2D /Game/Map01/Mossy_-_FloatingPlatforms.Mossy_-_FloatingPlatforms
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating Texture2D /Game/Map01/Mossy_-_BackgroundDecoration.Mossy_-_BackgroundDecoration
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/vine4.vine4
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/vine3.vine3
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/vine2.vine2
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/vine1.vine1
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/seaweed2.seaweed2
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/seaweed1.seaweed1
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/Rock3.Rock3
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/Rock2.Rock2
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/Rock1.Rock1
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/Mossy_-_TileSet__resize_896__TileMap.Mossy_-_TileSet__resize_896__TileMap
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_31.Mossy_-_Decorations_Hazards__resize_1024__Sprite_31
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/leaf4.leaf4
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/leaf3.leaf3
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/leaf2.leaf2
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/leaf1.leaf1
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating ObjectRedirector /Game/Map/Tileset/Ground/Boss_Map_Sprite.Boss_Map_Sprite
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/qQnJwE_Sprite.qQnJwE_Sprite
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating Texture2D /Game/Map01/Tileset/Ground/qQnJwE.qQnJwE
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_9.Mossy_-_Decorations_Hazards__resize_1024__Sprite_9
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_8.Mossy_-_Decorations_Hazards__resize_1024__Sprite_8
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_7.Mossy_-_Decorations_Hazards__resize_1024__Sprite_7
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_6.Mossy_-_Decorations_Hazards__resize_1024__Sprite_6
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_5.Mossy_-_Decorations_Hazards__resize_1024__Sprite_5
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_4.Mossy_-_Decorations_Hazards__resize_1024__Sprite_4
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_32.Mossy_-_Decorations_Hazards__resize_1024__Sprite_32
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_30.Mossy_-_Decorations_Hazards__resize_1024__Sprite_30
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_3.Mossy_-_Decorations_Hazards__resize_1024__Sprite_3
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_29.Mossy_-_Decorations_Hazards__resize_1024__Sprite_29
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_28.Mossy_-_Decorations_Hazards__resize_1024__Sprite_28
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_27.Mossy_-_Decorations_Hazards__resize_1024__Sprite_27
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_26.Mossy_-_Decorations_Hazards__resize_1024__Sprite_26
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_25.Mossy_-_Decorations_Hazards__resize_1024__Sprite_25
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_24.Mossy_-_Decorations_Hazards__resize_1024__Sprite_24
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_23.Mossy_-_Decorations_Hazards__resize_1024__Sprite_23
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_22.Mossy_-_Decorations_Hazards__resize_1024__Sprite_22
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_21.Mossy_-_Decorations_Hazards__resize_1024__Sprite_21
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_20.Mossy_-_Decorations_Hazards__resize_1024__Sprite_20
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_2.Mossy_-_Decorations_Hazards__resize_1024__Sprite_2
+[2021.11.15-18.43.34:508][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_19.Mossy_-_Decorations_Hazards__resize_1024__Sprite_19
+[2021.11.15-18.43.34:509][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_18.Mossy_-_Decorations_Hazards__resize_1024__Sprite_18
+[2021.11.15-18.43.34:509][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_17.Mossy_-_Decorations_Hazards__resize_1024__Sprite_17
+[2021.11.15-18.43.34:509][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_16.Mossy_-_Decorations_Hazards__resize_1024__Sprite_16
+[2021.11.15-18.43.34:509][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_15.Mossy_-_Decorations_Hazards__resize_1024__Sprite_15
+[2021.11.15-18.43.34:509][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_14.Mossy_-_Decorations_Hazards__resize_1024__Sprite_14
+[2021.11.15-18.43.34:509][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_13.Mossy_-_Decorations_Hazards__resize_1024__Sprite_13
+[2021.11.15-18.43.34:509][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_12.Mossy_-_Decorations_Hazards__resize_1024__Sprite_12
+[2021.11.15-18.43.34:509][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_11.Mossy_-_Decorations_Hazards__resize_1024__Sprite_11
+[2021.11.15-18.43.34:509][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_10.Mossy_-_Decorations_Hazards__resize_1024__Sprite_10
+[2021.11.15-18.43.34:509][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_1.Mossy_-_Decorations_Hazards__resize_1024__Sprite_1
+[2021.11.15-18.43.34:509][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_0.Mossy_-_Decorations_Hazards__resize_1024__Sprite_0
+[2021.11.15-18.43.34:509][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Mossy_-_FloatingPlatforms_Sprite_9.Mossy_-_FloatingPlatforms_Sprite_9
+[2021.11.15-18.43.34:509][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Mossy_-_FloatingPlatforms_Sprite_8.Mossy_-_FloatingPlatforms_Sprite_8
+[2021.11.15-18.43.34:509][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Mossy_-_FloatingPlatforms_Sprite_7.Mossy_-_FloatingPlatforms_Sprite_7
+[2021.11.15-18.43.34:509][259]LogContentValidation: Display: Validating PaperSprite /Game/Map01/Mossy_-_FloatingPlatforms_Sprite_6.Mossy_-_FloatingPlatforms_Sprite_6
+[2021.11.15-18.43.49:177][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.11.15-18.43.52:225][933]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.15-18.43.54:579][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.43.58:983][178]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.15-18.44.07:681][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.44.08:659][162]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.15-18.44.08:679][162]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.11.15-18.44.08:679][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.15-18.44.08:699][162]LogUObjectGlobals: Force Deleting 67 Package(s):
+	Asset Name: /Game/Map01/Tileset/Ground/Boss_Map.Boss_Map
+	Asset Name: /Game/Map01/Tileset/Ground/Boss_Map_Sprite.Boss_Map_Sprite
+	Asset Name: /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024_.Mossy_-_Decorations_Hazards__resize_1024_
+	Asset Name: /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__TileSet.Mossy_-_Decorations_Hazards__resize_1024__TileSet
+	Asset Name: /Game/Map01/Tileset/Ground/leaf1.leaf1
+	Asset Name: /Game/Map01/Tileset/Ground/leaf2.leaf2
+	Asset Name: /Game/Map01/Tileset/Ground/leaf3.leaf3
+	Asset Name: /Game/Map01/Tileset/Ground/leaf4.leaf4
+	Asset Name: /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_31.Mossy_-_Decorations_Hazards__resize_1024__Sprite_31
+	Asset Name: /Game/Map01/Tileset/Ground/Mossy_-_TileSet__resize_896_.Mossy_-_TileSet__resize_896_
+[2021.11.15-18.44.09:285][162]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperTileMapComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Mossy_-_TileSet__resize_896__TileMap2_5.RenderComponent)
+[2021.11.15-18.44.09:285][162]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperTileMapComponent /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.Mossy_-_TileSet__resize_896__TileMap_2.RenderComponent)
+[2021.11.15-18.44.18:736][162]LogSlate: Window 'Message' being destroyed
+[2021.11.15-18.44.18:739][162]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Map01/Tileset/Ground/Boss_Map.Boss_Map is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Map01/Tileset/Ground/Boss_Map.Boss_Map:
+   PaperSprite /Game/Map01/Tileset/Ground/Boss_Map_Sprite.Boss_Map_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2021.11.15-18.44.18:739][162]LogObjectTools: Warning: ForceDeleteObject failed to delete Boss_Map, this package is now potentially corrupt
+[2021.11.15-18.44.20:152][162]LogSlate: Window 'Message' being destroyed
+[2021.11.15-18.44.20:155][162]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024_.Mossy_-_Decorations_Hazards__resize_1024_ is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024_.Mossy_-_Decorations_Hazards__resize_1024_:
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_31.Mossy_-_Decorations_Hazards__resize_1024__Sprite_31 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_9.Mossy_-_Decorations_Hazards__resize_1024__Sprite_9 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_8.Mossy_-_Decorations_Hazards__resize_1024__Sprite_8 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_7.Mossy_-_Decorations_Hazards__resize_1024__Sprite_7 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_6.Mossy_-_Decorations_Hazards__resize_1024__Sprite_6 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_5.Mossy_-_Decorations_Hazards__resize_1024__Sprite_5 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_4.Mossy_-_Decorations_Hazards__resize_1024__Sprite_4 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_32.Mossy_-_Decorations_Hazards__resize_1024__Sprite_32 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_30.Mossy_-_Decorations_Hazards__resize_1024__Sprite_30 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_3.Mossy_-_Decorations_Hazards__resize_1024__Sprite_3 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_29.Mossy_-_Decorations_Hazards__resize_1024__Sprite_29 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_28.Mossy_-_Decorations_Hazards__resize_1024__Sprite_28 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_27.Mossy_-_Decorations_Hazards__resize_1024__Sprite_27 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_26.Mossy_-_Decorations_Hazards__resize_1024__Sprite_26 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_25.Mossy_-_Decorations_Hazards__resize_1024__Sprite_25 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_24.Mossy_-_Decorations_Hazards__resize_1024__Sprite_24 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_23.Mossy_-_Decorations_Hazards__resize_1024__Sprite_23 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_22.Mossy_-_Decorations_Hazards__resize_1024__Sprite_22 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_21.Mossy_-_Decorations_Hazards__resize_1024__Sprite_21 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_20.Mossy_-_Decorations_Hazards__resize_1024__Sprite_20 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_2.Mossy_-_Decorations_Hazards__resize_1024__Sprite_2 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_19.Mossy_-_Decorations_Hazards__resize_1024__Sprite_19 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_18.Mossy_-_Decorations_Hazards__resize_1024__Sprite_18 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_17.Mossy_-_Decorations_Hazards__resize_1024__Sprite_17 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_16.Mossy_-_Decorations_Hazards__resize_1024__Sprite_16 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_15.Mossy_-_Decorations_Hazards__resize_1024__Sprite_15 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_14.Mossy_-_Decorations_Hazards__resize_1024__Sprite_14 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_13.Mossy_-_Decorations_Hazards__resize_1024__Sprite_13 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_12.Mossy_-_Decorations_Hazards__resize_1024__Sprite_12 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_11.Mossy_-_Decorations_Hazards__resize_1024__Sprite_11 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_10.Mossy_-_Decorations_Hazards__resize_1024__Sprite_10 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_1.Mossy_-_Decorations_Hazards__resize_1024__Sprite_1 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024__Sprite_0.Mossy_-_Decorations_Hazards__resize_1024__Sprite_0 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2021.11.15-18.44.20:155][162]LogObjectTools: Warning: ForceDeleteObject failed to delete Mossy_-_Decorations_Hazards__resize_1024_, this package is now potentially corrupt
+[2021.11.15-18.44.21:641][162]LogSlate: Window 'Message' being destroyed
+[2021.11.15-18.44.21:644][162]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Map01/Mossy_-_FloatingPlatforms.Mossy_-_FloatingPlatforms is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Map01/Mossy_-_FloatingPlatforms.Mossy_-_FloatingPlatforms:
+   PaperSprite /Game/Map01/Mossy_-_FloatingPlatforms_Sprite_9.Mossy_-_FloatingPlatforms_Sprite_9 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Mossy_-_FloatingPlatforms_Sprite_8.Mossy_-_FloatingPlatforms_Sprite_8 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Mossy_-_FloatingPlatforms_Sprite_7.Mossy_-_FloatingPlatforms_Sprite_7 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Map01/Mossy_-_FloatingPlatforms_Sprite_6.Mossy_-_FloatingPlatforms_Sprite_6 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2021.11.15-18.44.21:644][162]LogObjectTools: Warning: ForceDeleteObject failed to delete Mossy_-_FloatingPlatforms, this package is now potentially corrupt
+[2021.11.15-18.44.21:676][162]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.11.15-18.44.24:308][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.11.15-18.44.24:314][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.11.15-18.44.24:317][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.44.24:320][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.15-18.44.24:323][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.15-18.44.24:326][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.44.24:328][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.44.24:331][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.15-18.44.24:334][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.44.24:337][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.44.24:339][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.15-18.44.24:342][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.44.24:345][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.15-18.44.24:348][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.44.24:351][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.44.24:353][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.15-18.44.24:356][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.15-18.44.24:359][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.44.24:362][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.44.24:364][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.15-18.44.24:367][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.44.24:370][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.15-18.44.24:374][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.11.15-18.44.24:377][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.11.15-18.44.24:380][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.44.24:383][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.15-18.44.24:385][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.15-18.44.24:388][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.44.24:392][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.11.15-18.44.24:395][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.44.24:398][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.44.24:401][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.11.15-18.44.24:403][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.44.24:406][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.44.24:409][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.11.15-18.44.24:412][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.44.24:415][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.44.24:417][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.44.24:420][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.44.24:423][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.15-18.44.24:426][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.44.24:429][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.44.24:431][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.44.24:434][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.44.24:437][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.15-18.44.24:440][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.44.24:443][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.11.15-18.44.24:445][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.44.24:448][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.44.24:451][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.44.24:454][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.15-18.44.24:456][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.15-18.44.24:459][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.44.24:462][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.15-18.44.24:464][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.44.24:467][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.44.24:470][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.44.24:473][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.44.24:476][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.11.15-18.44.24:479][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.11.15-18.44.24:482][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.15-18.44.24:485][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.15-18.44.24:487][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.15-18.44.24:490][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.11.15-18.44.24:493][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.11.15-18.44.24:496][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.11.15-18.44.24:506][162]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.15-18.44.24:561][162]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.055 s
+[2021.11.15-18.44.24:561][162]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: 
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3205]
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: 
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: 					from the file system manually: 
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: /Game/Map01/Tileset/Ground/Boss_Map
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: /Game/Map01/Tileset/Ground/Mossy_-_Decorations_Hazards__resize_1024_
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: /Game/Map01/Mossy_-_FloatingPlatforms
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: Stack: 
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeb9dba948 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeb9683169 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeb8dcb269 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeb90aeade UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeb90a5b97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffed2d9a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffed2db280e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffed2c0421e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffed2c7e104 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffed2c67097 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffed2c59b62 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeecf7c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeecf692b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeecf7e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeecf64410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007fff1e8ce7e8 USER32.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007fff1e8ce229 USER32.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeecf7fb79 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffed2c8865a UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffed2c26b09 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeb9141b9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeb9676952 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffe92c1c618 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffe7f782d69 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffe7f782f6e UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffe7f7723a7 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffe93612173 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffe9360b7f2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffe9368b6d2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffe9360ea17 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffed2d9a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffed2db280e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffed2c0421e UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffed2c7e104 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffed2c67097 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffed2c59b62 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeecf7c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeecf692b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeecf7e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeecf64410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007fff1e8ce7e8 USER32.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007fff1e8ce229 USER32.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ffeecf7fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ff7bd267621 UE4Editor.exe!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ff7bd280fbc UE4Editor.exe!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ff7bd2810aa UE4Editor.exe!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ff7bd2840cd UE4Editor.exe!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ff7bd295984 UE4Editor.exe!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007ff7bd29853a UE4Editor.exe!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007fff1fa67034 KERNEL32.DLL!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: [Callstack] 0x00007fff1ff02651 ntdll.dll!UnknownFunction []
+[2021.11.15-18.44.24:562][162]LogOutputDevice: Error: 
