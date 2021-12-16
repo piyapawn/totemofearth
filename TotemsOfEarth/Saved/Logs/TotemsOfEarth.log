@@ -9156,3 +9156,803 @@ Mon1_C.ReceiveBeginPlay
 [2021.12.16-04.56.30:553][133]LogEditorActor: Deleted Actor: Boss_C
 [2021.12.16-04.56.30:586][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
 [2021.12.16-04.56.30:593][133]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2021.12.16-04.59.34:619][ 10]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.12.16-04.59.36:206][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.12.16-04.59.36:231][188]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Map019B49F2454C8D0A0820C831892A09231F.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/2DSideScrollerBP/Maps/Map01.umap'
+[2021.12.16-04.59.36:242][188]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Map01_BuiltData7572ABAE47A6A90911FCC0AD5FDC2FDB.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/2DSideScrollerBP/Maps/Map01_BuiltData.uasset'
+[2021.12.16-04.59.36:256][188]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.16-04.59.36:256][188]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/Map01_BuiltData.Map01_BuiltData
+[2021.12.16-04.59.36:256][188]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/Map01.Map01
+[2021.12.16-04.59.37:456][329]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (AryaCharactor)
+[2021.12.16-04.59.38:066][384]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (Mossy-Map01)
+[2021.12.16-04.59.38:951][472]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2021.12.16-05.03.40:029][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.12.16-05.03.41:763][ 15]LogSlate: Window 'Save Content' being destroyed
+[2021.12.16-05.03.41:820][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charactor/Enemy/AI_Enemy" FILE="../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/AI_Enemy.uasset" SILENT=true
+[2021.12.16-05.03.41:885][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/AI_EnemyB1983B6649DB9E78475BC0A06302F1B1.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/AI_Enemy.uasset'
+[2021.12.16-05.03.41:886][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Charactor/Enemy/Boss" FILE="../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Boss.uasset" SILENT=true
+[2021.12.16-05.03.41:937][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Boss6AD783D54B7778277B822F9FC6B79A16.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Boss.uasset'
+[2021.12.16-05.03.41:949][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_0004606C4764138AEAF7BE0DF82AF0C62A5.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_000.uasset'
+[2021.12.16-05.03.41:960][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_000_Sprite7CC26CAF4CCA159F2767BEA2A9D0D9BE.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_000_Sprite.uasset'
+[2021.12.16-05.03.41:972][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_001470F5BA144BD712B75C6F4B85E1C3671.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_001.uasset'
+[2021.12.16-05.03.41:984][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_001_SpriteAF2F67B54CDCE48F1E0D588BCB216FD5.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_001_Sprite.uasset'
+[2021.12.16-05.03.41:998][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_0024047CFD346A0FE654A89599F05961168.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_002.uasset'
+[2021.12.16-05.03.42:009][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_002_SpriteFAECB0914F65F634BD9539A78E2B70A8.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_002_Sprite.uasset'
+[2021.12.16-05.03.42:024][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_003D20DB720410A5516104DE99C514D5E3E.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_003.uasset'
+[2021.12.16-05.03.42:038][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_003_Sprite043D351A4ECC9C89763B2FAE98B60BA4.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_003_Sprite.uasset'
+[2021.12.16-05.03.42:050][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_00437E9E94644C95889B319E7BA9490F26F.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_004.uasset'
+[2021.12.16-05.03.42:062][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_004_Sprite4C7C91BF43526389FD124D95B6640C7E.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_004_Sprite.uasset'
+[2021.12.16-05.03.42:073][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_00542857ADC430D237956489AA15D4FEE79.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_005.uasset'
+[2021.12.16-05.03.42:085][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_005_Sprite334388CB40AD79371DC59184D0348DB7.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_005_Sprite.uasset'
+[2021.12.16-05.03.42:097][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_0069976012140EC888A7FA333AA48D46EBB.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_006.uasset'
+[2021.12.16-05.03.42:109][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_006_Sprite9A9700704931E199309B4B860111475F.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_006_Sprite.uasset'
+[2021.12.16-05.03.42:121][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_00705E8F5BE4C9435E7F2CCE39063BEF749.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_007.uasset'
+[2021.12.16-05.03.42:133][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_007_Sprite0F20FD564CAA5D40AE24C89B8D08040E.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_007_Sprite.uasset'
+[2021.12.16-05.03.42:146][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_0084C22716F45F8229923919283F2A18C7E.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_008.uasset'
+[2021.12.16-05.03.42:158][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_008_Sprite2CAA3B7A4FD31E077E30FB8546E3ECE3.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_008_Sprite.uasset'
+[2021.12.16-05.03.42:170][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_0098FE6259C4B945093690928BBCB514DA8.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_009.uasset'
+[2021.12.16-05.03.42:181][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_009_SpriteB4DA91FE4064C5261E9ADDADEF813F75.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_009_Sprite.uasset'
+[2021.12.16-05.03.42:193][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_01050AB0F9244FF123DB6738CB451895F29.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_010.uasset'
+[2021.12.16-05.03.42:205][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_010_Sprite689F6CC94E66AACC7CDADA9ED91A968C.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_010_Sprite.uasset'
+[2021.12.16-05.03.42:217][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_01143606D15487C2A44C89F6A89AA66C7B3.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_011.uasset'
+[2021.12.16-05.03.42:229][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Attacking_011_Sprite9757C6864A487E7A5A28ADA93DBADA3B.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_011_Sprite.uasset'
+[2021.12.16-05.03.42:240][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_0008B673E3646FA012AB23C93A7C9903F4A.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_000.uasset'
+[2021.12.16-05.03.42:252][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_000_Sprite42C5FACB43AD85A523AA39B650AC4B27.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_000_Sprite.uasset'
+[2021.12.16-05.03.42:263][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_0010FD05CD74F7D9A4C6547B4A5CB396A19.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_001.uasset'
+[2021.12.16-05.03.42:275][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_001_Sprite97B5CA3A4070DBBE15DF62B989BB2540.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_001_Sprite.uasset'
+[2021.12.16-05.03.42:288][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_002188F30144DB0E9F6DB207596337F8165.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_002.uasset'
+[2021.12.16-05.03.42:300][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_002_SpriteDCE77C1F45AF59ABFF27BC91F881FBFF.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_002_Sprite.uasset'
+[2021.12.16-05.03.42:311][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_00351A2A8AE4AF067320536F5A102A1BAB9.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_003.uasset'
+[2021.12.16-05.03.42:323][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_003_Sprite66483E51404A663A0E22A79C61B07DD7.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_003_Sprite.uasset'
+[2021.12.16-05.03.42:335][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_004E3539D0F4FF4730956538BAC429CBE55.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_004.uasset'
+[2021.12.16-05.03.42:347][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_004_SpriteB5F2A4464D7279AF7CAF9CB5E3279782.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_004_Sprite.uasset'
+[2021.12.16-05.03.42:359][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_00522C222734C9F0A8471D1FB8FD3CA53D4.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_005.uasset'
+[2021.12.16-05.03.42:371][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_005_Sprite2F64E3FE4B0FD05F73B719A062CBA241.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_005_Sprite.uasset'
+[2021.12.16-05.03.42:384][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_006DE50537D44F4D8846B039395696D93E7.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_006.uasset'
+[2021.12.16-05.03.42:396][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_006_Sprite86A58C7A4CF499E81973AA9AA28CF8AE.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_006_Sprite.uasset'
+[2021.12.16-05.03.42:408][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_007393BCF6D42F234185C854D82C2894145.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_007.uasset'
+[2021.12.16-05.03.42:420][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_007_Sprite72AE2DCF479673434B3F1887E89D02B0.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_007_Sprite.uasset'
+[2021.12.16-05.03.42:434][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_00807F1C07148EBCD077F467C8731579444.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_008.uasset'
+[2021.12.16-05.03.42:446][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_008_Sprite49D080314517DFED2FF1D4AE851BA686.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_008_Sprite.uasset'
+[2021.12.16-05.03.42:459][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_00964B1BF4E451DFCE720788FA961967154.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_009.uasset'
+[2021.12.16-05.03.42:471][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_009_SpriteBDECD57E45458044857C9FAE2AAEBDDF.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_009_Sprite.uasset'
+[2021.12.16-05.03.42:483][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_010EA189C4A4D8AA6293AE7FE9EED53DAD9.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_010.uasset'
+[2021.12.16-05.03.42:495][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_010_SpriteD2581FF64C351FA06817329B186EBAE3.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_010_Sprite.uasset'
+[2021.12.16-05.03.42:507][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_0117091D3954BC75EB717B774BB679D5115.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_011.uasset'
+[2021.12.16-05.03.42:519][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_011_Sprite40CFB9BB494A9F499C29B7826D9FED5D.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_011_Sprite.uasset'
+[2021.12.16-05.03.42:531][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_012E773011B460A26DD014B96A5004D3CDE.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_012.uasset'
+[2021.12.16-05.03.42:543][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_012_SpriteAEF252D0401E5E61FA9E5E9716F0D371.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_012_Sprite.uasset'
+[2021.12.16-05.03.42:554][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_013BE8936E64F26DDC919882D887BF124A3.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_013.uasset'
+[2021.12.16-05.03.42:566][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_013_Sprite110A44D8478BC21ABFA00CB798974216.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_013_Sprite.uasset'
+[2021.12.16-05.03.42:578][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_01412BF65124A4F2573C3C278B0DF39D37F.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_014.uasset'
+[2021.12.16-05.03.42:590][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Dying_014_Sprite92BC05EE4C6FECE4EC2552BCF570DC78.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Die/Golem_01_Dying_014_Sprite.uasset'
+[2021.12.16-05.03.42:600][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_00073DD49AE4A810BA35D3D0B8ACE9E145C.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_000.uasset'
+[2021.12.16-05.03.42:612][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_000_Sprite54DFBC0544369457223C3A9845F2FFE1.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_000_Sprite.uasset'
+[2021.12.16-05.03.42:624][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_0014880F63244006AA17DC6869DEDD16E4E.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_001.uasset'
+[2021.12.16-05.03.42:638][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_001_Sprite419C595A47996C05958090BC062DA847.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_001_Sprite.uasset'
+[2021.12.16-05.03.42:650][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_002A3BFCA6C4A25D1F34D80AB89FD4F7CB2.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_002.uasset'
+[2021.12.16-05.03.42:661][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_002_Sprite4651C6D2458C5B2FC8EBAB9F95D70D23.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_002_Sprite.uasset'
+[2021.12.16-05.03.42:674][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_003BD576C4D46AF3345B749E494FBBB58ED.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_003.uasset'
+[2021.12.16-05.03.42:686][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_003_Sprite09C0369542D7CB8578255F9CE17949A4.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_003_Sprite.uasset'
+[2021.12.16-05.03.42:698][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_004E0C84D5545CBE8344C4C34AA4D3C0AC0.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_004.uasset'
+[2021.12.16-05.03.42:711][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_004_Sprite2736749A4DDF645C64D6778FACF1F6EA.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_004_Sprite.uasset'
+[2021.12.16-05.03.42:723][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_005AA7760CF413C3A2DD34B36A31B79F76B.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_005.uasset'
+[2021.12.16-05.03.42:735][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_005_Sprite7C3561AF42923ECF656565A8573B2819.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_005_Sprite.uasset'
+[2021.12.16-05.03.42:747][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_0065A4AD53C4F3E75223B33EA8AA3A42A94.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_006.uasset'
+[2021.12.16-05.03.42:760][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_006_Sprite536D5DF346BF4988ECF704AF3B29AAB7.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_006_Sprite.uasset'
+[2021.12.16-05.03.42:772][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_007E72DD4D34AB917E3C3702B9321AF4FCB.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_007.uasset'
+[2021.12.16-05.03.42:784][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_007_Sprite278C52B74E8EDD3A823193B5841A227D.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_007_Sprite.uasset'
+[2021.12.16-05.03.42:796][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_008469FC1EF4DA2914D0F23F39B7B770B8E.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_008.uasset'
+[2021.12.16-05.03.42:808][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_008_SpriteB1A679D34E243365FF86F9949291196E.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_008_Sprite.uasset'
+[2021.12.16-05.03.42:820][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_0093BE3E0944D76F867A9985A93AD39D2FA.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_009.uasset'
+[2021.12.16-05.03.42:833][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_009_SpriteA7841278474FF47865224399ACD5D9CA.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_009_Sprite.uasset'
+[2021.12.16-05.03.42:845][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_01035BDD29D45A82ED5C088838783CAA772.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_010.uasset'
+[2021.12.16-05.03.42:857][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_010_Sprite156641EB4930C669FDF487B58E984DF0.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_010_Sprite.uasset'
+[2021.12.16-05.03.42:869][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_011295A2FF14809CAE41BD5CE9C1E0B38CE.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_011.uasset'
+[2021.12.16-05.03.42:880][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Hurt_011_Sprite945125C1404275D49C725AA0779BAE01.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_011_Sprite.uasset'
+[2021.12.16-05.03.42:891][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_000E2AF71CB46EA3E64D0F82D97541979E7.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_000.uasset'
+[2021.12.16-05.03.42:903][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_000_Sprite18A3F8F44067970C673E96912A9410DC.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_000_Sprite.uasset'
+[2021.12.16-05.03.42:914][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_00106592B7145F7AF45B30B3690B4C3A88A.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_001.uasset'
+[2021.12.16-05.03.42:926][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_001_SpriteDD0AC29F48097EF7C75C019CA9BA7916.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_001_Sprite.uasset'
+[2021.12.16-05.03.42:938][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_0024E17CDCE43F8E1AB90F058BD9A77517E.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_002.uasset'
+[2021.12.16-05.03.42:950][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_002_SpriteCAD0B2E144EA529A1EEA87B09B526431.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_002_Sprite.uasset'
+[2021.12.16-05.03.42:961][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_003A9AF7973486610EE67314DB4C627E119.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_003.uasset'
+[2021.12.16-05.03.42:973][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_003_SpriteA82642FB4FD76BFD03C28FBABB8E993E.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_003_Sprite.uasset'
+[2021.12.16-05.03.42:984][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_004A3F7D2D145787203C2831793E05AF985.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_004.uasset'
+[2021.12.16-05.03.42:996][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_004_Sprite04C3E92A45402BD92953E7994EE6EA28.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_004_Sprite.uasset'
+[2021.12.16-05.03.43:008][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_0058AC8C91C447FCCBEAA3528809C7ED03A.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_005.uasset'
+[2021.12.16-05.03.43:019][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_005_Sprite5EE74C9C4A6F34969FFA90A4CD1E186D.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_005_Sprite.uasset'
+[2021.12.16-05.03.43:031][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_006E9747F1E4AC9A98E4810D7AD9A36411C.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_006.uasset'
+[2021.12.16-05.03.43:044][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_006_SpriteCAEE2A4448AC4D7BE6F29581D89B8FAA.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_006_Sprite.uasset'
+[2021.12.16-05.03.43:055][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_00726073D7949171459FE10F7A2251F871E.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_007.uasset'
+[2021.12.16-05.03.43:067][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_007_Sprite94D308A54BEA7CA94EFEB7AA183FD548.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_007_Sprite.uasset'
+[2021.12.16-05.03.43:079][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_0083D1D9A98471E9ADCA079A88BDA9E3721.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_008.uasset'
+[2021.12.16-05.03.43:091][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_008_SpriteC237E9C44D72395CB851D898A15803F2.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_008_Sprite.uasset'
+[2021.12.16-05.03.43:102][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_0093FC67CB94A6433A9B32F8BA825BB3615.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_009.uasset'
+[2021.12.16-05.03.43:114][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_009_Sprite7A9690004D7485D7EF4E049B9868D561.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_009_Sprite.uasset'
+[2021.12.16-05.03.43:126][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_010B88BBCA64223095BD19C14ACDE291D92.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_010.uasset'
+[2021.12.16-05.03.43:138][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_010_Sprite818B280F401BDF860A82528866574946.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_010_Sprite.uasset'
+[2021.12.16-05.03.43:149][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_011B91BC7BE4E0C21632E773EB26B1B6B47.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_011.uasset'
+[2021.12.16-05.03.43:161][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Idle_011_Sprite29A294F14A00E6F8FDF9BDA186E324E9.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_011_Sprite.uasset'
+[2021.12.16-05.03.43:171][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Jump_Start_0009261146948E9FBD54BB33497ADE2663E.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_000.uasset'
+[2021.12.16-05.03.43:183][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Jump_Start_000_Sprite78352AEF48C5F044A8F2DCBC8232030E.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_000_Sprite.uasset'
+[2021.12.16-05.03.43:194][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Jump_Start_001F430FBD947D017758E3D688ED9DB160C.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_001.uasset'
+[2021.12.16-05.03.43:207][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Jump_Start_001_SpriteE87B5C094034A9292421F8850ABC4493.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_001_Sprite.uasset'
+[2021.12.16-05.03.43:218][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Jump_Start_002F8E9FD4C4BC1E3E3A93D46AF9289BDFE.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_002.uasset'
+[2021.12.16-05.03.43:230][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Jump_Start_002_Sprite188E90A945516B8E5AB822B3DA3D577D.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_002_Sprite.uasset'
+[2021.12.16-05.03.43:243][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Jump_Start_0037C5D84544CCE0203A9D024B91260225A.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_003.uasset'
+[2021.12.16-05.03.43:255][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Jump_Start_003_Sprite52DEE3DC4C1E05C78122AAB17C1A8628.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_003_Sprite.uasset'
+[2021.12.16-05.03.43:267][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Jump_Start_004E7CACFD3495F091B2F8329ABE53FA281.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_004.uasset'
+[2021.12.16-05.03.43:279][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Jump_Start_004_Sprite2BF9CE06467CBD0D6F3DD4A5B3A21A63.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_004_Sprite.uasset'
+[2021.12.16-05.03.43:290][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Jump_Start_0051BB8F00F47B3410BC36E9882AB336CFF.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_005.uasset'
+[2021.12.16-05.03.43:302][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Jump_Start_005_Sprite3A0FDA354D6EF9CBE2B264826B0ECB15.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_005_Sprite.uasset'
+[2021.12.16-05.03.43:314][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_00027C2B57C44265537F7B3A38EE4808E2E.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_000.uasset'
+[2021.12.16-05.03.43:326][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_000_Sprite2154039948BD20EF77F359B433DF3DB3.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_000_Sprite.uasset'
+[2021.12.16-05.03.43:338][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_00103FE8403478CE1FA1A3751A2DBAD50A5.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_001.uasset'
+[2021.12.16-05.03.43:350][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_001_Sprite391733674152D752004ADCBE07FB4A2B.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_001_Sprite.uasset'
+[2021.12.16-05.03.43:362][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_002CBE93D0A4F84EEE7BC16FFAF51B622F9.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_002.uasset'
+[2021.12.16-05.03.43:374][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_002_Sprite9F4BA152492B8BB4DD0ABC82D875055B.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_002_Sprite.uasset'
+[2021.12.16-05.03.43:386][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_00346F156DC4152743D3CCF5DAB9BE0559C.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_003.uasset'
+[2021.12.16-05.03.43:397][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_003_Sprite359E2FD54910ACB907D1B8A8907344C4.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_003_Sprite.uasset'
+[2021.12.16-05.03.43:409][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_00443A9BD90435FA86F93D099B11A01312C.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_004.uasset'
+[2021.12.16-05.03.43:421][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_004_Sprite07B728024F4395D4E02FE3AC1A430C76.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_004_Sprite.uasset'
+[2021.12.16-05.03.43:432][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_005BBB758F8438353D02FB890ACEF9E3A4D.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_005.uasset'
+[2021.12.16-05.03.43:446][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_005_SpriteB630E05B44F623E6F0B9C1938EE28DB2.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_005_Sprite.uasset'
+[2021.12.16-05.03.43:457][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_006CC8D593A42C02FEC9C9A53A12CD31357.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_006.uasset'
+[2021.12.16-05.03.43:469][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_006_SpriteCAEC3CE64BA8C43FDE73D2BF5C30A218.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_006_Sprite.uasset'
+[2021.12.16-05.03.43:481][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_007FABC893D4E05240F484DB79F99307B81.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_007.uasset'
+[2021.12.16-05.03.43:493][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_007_SpriteB4F005E24C53931071711586FE108E83.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_007_Sprite.uasset'
+[2021.12.16-05.03.43:505][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_008E39C92BD49BA79E31E556191C1BA11CF.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_008.uasset'
+[2021.12.16-05.03.43:516][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_008_SpriteBBCCB2224AC6976BC8341A9D2E5C7851.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_008_Sprite.uasset'
+[2021.12.16-05.03.43:528][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_00918979EB945D9CCAD7903748FE6BF79ED.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_009.uasset'
+[2021.12.16-05.03.43:540][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_009_SpriteFA8164F3425D6E8581FED4930288131D.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_009_Sprite.uasset'
+[2021.12.16-05.03.43:552][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_010B92D172C4A726213F04AAC800BE25B49.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_010.uasset'
+[2021.12.16-05.03.43:565][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_010_Sprite2371FC6A4B4249A7D56996AA37B4B722.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_010_Sprite.uasset'
+[2021.12.16-05.03.43:576][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_011024EE797424910B0FB4E51B6EE63C407.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_011.uasset'
+[2021.12.16-05.03.43:589][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_011_SpriteAC5C8A6F45B640EC08B9BB813A89C47B.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_011_Sprite.uasset'
+[2021.12.16-05.03.43:600][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_012CBE956CD4846D075BBCB22B6E09B3183.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_012.uasset'
+[2021.12.16-05.03.43:612][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_012_Sprite54000DFC4AB1F82307A723B37B6359B2.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_012_Sprite.uasset'
+[2021.12.16-05.03.43:624][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_013F65C716E44B89FAF7B5E8CA43797510B.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_013.uasset'
+[2021.12.16-05.03.43:636][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_013_Sprite86D25FE84078233B2AED1B8455B5CB09.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_013_Sprite.uasset'
+[2021.12.16-05.03.43:650][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_014F6E426B4456D34D053E39CBF73C9E0D1.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_014.uasset'
+[2021.12.16-05.03.43:662][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_014_SpriteC185EE68400A368F0C6DF495D6F3835E.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_014_Sprite.uasset'
+[2021.12.16-05.03.43:673][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_015B342D1C64B607585D9104AB0BF529B2F.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_015.uasset'
+[2021.12.16-05.03.43:686][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_015_Sprite4F0328B04E8B84AA38FF4EA7898E8D4E.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_015_Sprite.uasset'
+[2021.12.16-05.03.43:697][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_016CA080357461FB3086789D3B1221374ED.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_016.uasset'
+[2021.12.16-05.03.43:709][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_016_SpriteE2AD810D4E04C62B8FCABD96B05A8D82.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_016_Sprite.uasset'
+[2021.12.16-05.03.43:721][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_01772574EA84A37E0D14B916C953C1F6028.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_017.uasset'
+[2021.12.16-05.03.43:733][ 15]LogSavePackage: Moving '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Saved/Golem_01_Walking_017_Sprite3239ECBB45FAE27CCDCEFC91FF544CC3.tmp' to '../../../../../../Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_017_Sprite.uasset'
+[2021.12.16-05.03.43:780][ 15]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.12.16-05.03.43:780][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.16-05.03.43:877][ 15]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.12.16-05.03.43:877][ 15]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.12.16-05.03.43:877][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.16-05.03.43:959][ 15]LogSlate: Window 'TotemsOfEarth - Unreal Editor' being destroyed
+[2021.12.16-05.03.44:116][ 15]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.16-05.03.44:116][ 15]LogContentValidation: Display: Validating Blueprint /Game/Charactor/Enemy/AI_Enemy.AI_Enemy
+[2021.12.16-05.03.44:116][ 15]LogContentValidation: Display: Validating Blueprint /Game/Charactor/Enemy/Boss.Boss
+[2021.12.16-05.03.44:116][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_010.Golem_01_Attacking_010
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_009.Golem_01_Attacking_009
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_008.Golem_01_Attacking_008
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_007.Golem_01_Attacking_007
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_006.Golem_01_Attacking_006
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_005.Golem_01_Attacking_005
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_004.Golem_01_Attacking_004
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_003.Golem_01_Attacking_003
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_002.Golem_01_Attacking_002
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_001.Golem_01_Attacking_001
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_000.Golem_01_Attacking_000
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_010_Sprite.Golem_01_Attacking_010_Sprite
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_011.Golem_01_Attacking_011
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_009_Sprite.Golem_01_Attacking_009_Sprite
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_008_Sprite.Golem_01_Attacking_008_Sprite
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_007_Sprite.Golem_01_Attacking_007_Sprite
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_006_Sprite.Golem_01_Attacking_006_Sprite
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_007.Golem_01_Hurt_007
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_006.Golem_01_Hurt_006
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_005.Golem_01_Hurt_005
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_004.Golem_01_Hurt_004
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_003.Golem_01_Hurt_003
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_002.Golem_01_Hurt_002
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_001.Golem_01_Hurt_001
+[2021.12.16-05.03.44:117][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_000.Golem_01_Hurt_000
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_011.Golem_01_Hurt_011
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_010.Golem_01_Hurt_010
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_009.Golem_01_Hurt_009
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_010_Sprite.Golem_01_Hurt_010_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_009_Sprite.Golem_01_Hurt_009_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_008_Sprite.Golem_01_Hurt_008_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_007_Sprite.Golem_01_Hurt_007_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_005_Sprite.Golem_01_Attacking_005_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_006_Sprite.Golem_01_Hurt_006_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_005_Sprite.Golem_01_Hurt_005_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_004_Sprite.Golem_01_Attacking_004_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_003_Sprite.Golem_01_Attacking_003_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_002_Sprite.Golem_01_Attacking_002_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_001_Sprite.Golem_01_Attacking_001_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_002_Sprite.Golem_01_Dying_002_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_000_Sprite.Golem_01_Attacking_000_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Attk/Golem_01_Attacking_011_Sprite.Golem_01_Attacking_011_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_001_Sprite.Golem_01_Dying_001_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_000_Sprite.Golem_01_Dying_000_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_014_Sprite.Golem_01_Dying_014_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_013_Sprite.Golem_01_Dying_013_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_012_Sprite.Golem_01_Dying_012_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_011_Sprite.Golem_01_Dying_011_Sprite
+[2021.12.16-05.03.44:118][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_010_Sprite.Golem_01_Dying_010_Sprite
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_009_Sprite.Golem_01_Dying_009_Sprite
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_008_Sprite.Golem_01_Dying_008_Sprite
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_007_Sprite.Golem_01_Dying_007_Sprite
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_006_Sprite.Golem_01_Dying_006_Sprite
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_005_Sprite.Golem_01_Dying_005_Sprite
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_004_Sprite.Golem_01_Dying_004_Sprite
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_003_Sprite.Golem_01_Dying_003_Sprite
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_002.Golem_01_Dying_002
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_001.Golem_01_Dying_001
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_000.Golem_01_Dying_000
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_014.Golem_01_Dying_014
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_013.Golem_01_Dying_013
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_012.Golem_01_Dying_012
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_011.Golem_01_Dying_011
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_010.Golem_01_Dying_010
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_009.Golem_01_Dying_009
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_008.Golem_01_Dying_008
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_011_Sprite.Golem_01_Idle_011_Sprite
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_010_Sprite.Golem_01_Idle_010_Sprite
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_007.Golem_01_Dying_007
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_009_Sprite.Golem_01_Idle_009_Sprite
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_008_Sprite.Golem_01_Idle_008_Sprite
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_007_Sprite.Golem_01_Idle_007_Sprite
+[2021.12.16-05.03.44:119][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_006_Sprite.Golem_01_Idle_006_Sprite
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_006.Golem_01_Dying_006
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_005_Sprite.Golem_01_Idle_005_Sprite
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_004_Sprite.Golem_01_Idle_004_Sprite
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_003_Sprite.Golem_01_Idle_003_Sprite
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_002_Sprite.Golem_01_Idle_002_Sprite
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_005.Golem_01_Dying_005
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_001_Sprite.Golem_01_Idle_001_Sprite
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_000_Sprite.Golem_01_Idle_000_Sprite
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_004.Golem_01_Dying_004
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Die/Golem_01_Dying_003.Golem_01_Dying_003
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_011.Golem_01_Idle_011
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_010.Golem_01_Idle_010
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_009.Golem_01_Idle_009
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_008.Golem_01_Idle_008
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_007.Golem_01_Idle_007
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_006.Golem_01_Idle_006
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_005.Golem_01_Idle_005
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_004.Golem_01_Idle_004
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_003.Golem_01_Idle_003
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_002.Golem_01_Idle_002
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_001.Golem_01_Idle_001
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Idle/Golem_01_Idle_000.Golem_01_Idle_000
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_004_Sprite.Golem_01_Hurt_004_Sprite
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_003_Sprite.Golem_01_Hurt_003_Sprite
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_002_Sprite.Golem_01_Hurt_002_Sprite
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_001_Sprite.Golem_01_Hurt_001_Sprite
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_000_Sprite.Golem_01_Hurt_000_Sprite
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_008.Golem_01_Hurt_008
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_017_Sprite.Golem_01_Walking_017_Sprite
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_016_Sprite.Golem_01_Walking_016_Sprite
+[2021.12.16-05.03.44:120][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_015_Sprite.Golem_01_Walking_015_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_014_Sprite.Golem_01_Walking_014_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_013_Sprite.Golem_01_Walking_013_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_012_Sprite.Golem_01_Walking_012_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_011_Sprite.Golem_01_Walking_011_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_010_Sprite.Golem_01_Walking_010_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_009_Sprite.Golem_01_Walking_009_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_008_Sprite.Golem_01_Walking_008_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_007_Sprite.Golem_01_Walking_007_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_006_Sprite.Golem_01_Walking_006_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_005_Sprite.Golem_01_Walking_005_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_004_Sprite.Golem_01_Walking_004_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_003_Sprite.Golem_01_Walking_003_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_002_Sprite.Golem_01_Walking_002_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_001_Sprite.Golem_01_Walking_001_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_000_Sprite.Golem_01_Walking_000_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_005_Sprite.Golem_01_Jump_Start_005_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_003_Sprite.Golem_01_Jump_Start_003_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_004_Sprite.Golem_01_Jump_Start_004_Sprite
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_013.Golem_01_Walking_013
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_012.Golem_01_Walking_012
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_011.Golem_01_Walking_011
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_010.Golem_01_Walking_010
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_009.Golem_01_Walking_009
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_008.Golem_01_Walking_008
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_007.Golem_01_Walking_007
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_006.Golem_01_Walking_006
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_005.Golem_01_Walking_005
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_004.Golem_01_Walking_004
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_003.Golem_01_Walking_003
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_002.Golem_01_Walking_002
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_001.Golem_01_Walking_001
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_000.Golem_01_Walking_000
+[2021.12.16-05.03.44:121][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_017.Golem_01_Walking_017
+[2021.12.16-05.03.44:122][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_001.Golem_01_Jump_Start_001
+[2021.12.16-05.03.44:122][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_002.Golem_01_Jump_Start_002
+[2021.12.16-05.03.44:122][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_000.Golem_01_Jump_Start_000
+[2021.12.16-05.03.44:122][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_005.Golem_01_Jump_Start_005
+[2021.12.16-05.03.44:122][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_016.Golem_01_Walking_016
+[2021.12.16-05.03.44:122][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_015.Golem_01_Walking_015
+[2021.12.16-05.03.44:122][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Walking/Golem_01_Walking_014.Golem_01_Walking_014
+[2021.12.16-05.03.44:122][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_002_Sprite.Golem_01_Jump_Start_002_Sprite
+[2021.12.16-05.03.44:122][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_001_Sprite.Golem_01_Jump_Start_001_Sprite
+[2021.12.16-05.03.44:122][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_000_Sprite.Golem_01_Jump_Start_000_Sprite
+[2021.12.16-05.03.44:122][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_004.Golem_01_Jump_Start_004
+[2021.12.16-05.03.44:122][ 15]LogContentValidation: Display: Validating Texture2D /Game/Charactor/Enemy/Monster1/Jump/Golem_01_Jump_Start_003.Golem_01_Jump_Start_003
+[2021.12.16-05.03.44:122][ 15]LogContentValidation: Display: Validating PaperSprite /Game/Charactor/Enemy/Monster1/Hurt/Golem_01_Hurt_011_Sprite.Golem_01_Hurt_011_Sprite
+[2021.12.16-05.03.44:124][ 16]Cmd: QUIT_EDITOR
+[2021.12.16-05.03.44:124][ 16]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.12.16-05.03.44:128][ 16]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.12.16-05.03.44:458][ 16]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.12.16-05.03.44:458][ 16]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.12.16-05.03.44:458][ 16]LogAudio: Display: Audio Device unregistered from world 'Map01'.
+[2021.12.16-05.03.44:458][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.16-05.03.44:459][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.16-05.03.44:464][ 16]LogAudio: Display: Audio Device Manager Shutdown
+[2021.12.16-05.03.44:464][ 16]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.16-05.03.44:471][ 16]LogExit: Preparing to exit.
+[2021.12.16-05.03.44:892][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.12.16-05.03.44:980][ 16]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.12.16-05.03.44:991][ 16]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/Users/shslady/Documents/GitHub/totemofearth/TotemsOfEarth/Content/] 
+[2021.12.16-05.03.45:039][ 16]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.12.16-05.03.45:051][ 16]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.12.16-05.03.45:052][ 16]LogExit: Editor shut down
+[2021.12.16-05.03.45:052][ 16]LogExit: Transaction tracking system shut down
+[2021.12.16-05.03.45:452][ 16]LogExit: Object subsystem successfully closed.
+[2021.12.16-05.03.45:476][ 16]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.16-05.03.45:476][ 16]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2021.12.16-05.03.45:476][ 16]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2021.12.16-05.03.45:476][ 16]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2021.12.16-05.03.45:476][ 16]LogShaderCompilers: Display: ================================================
+[2021.12.16-05.03.45:496][ 16]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.12.16-05.03.45:557][ 16]LogModuleManager: Shutting down and abandoning module SequencerWidgets (878)
+[2021.12.16-05.03.45:557][ 16]LogModuleManager: Shutting down and abandoning module BlueprintGraph (876)
+[2021.12.16-05.03.45:557][ 16]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (874)
+[2021.12.16-05.03.45:557][ 16]LogModuleManager: Shutting down and abandoning module Voice (872)
+[2021.12.16-05.03.45:557][ 16]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2021.12.16-05.03.45:557][ 16]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2021.12.16-05.03.45:557][ 16]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2021.12.16-05.03.45:558][ 16]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2021.12.16-05.03.45:558][ 16]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2021.12.16-05.03.45:558][ 16]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2021.12.16-05.03.45:558][ 16]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2021.12.16-05.03.45:558][ 16]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2021.12.16-05.03.45:558][ 16]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2021.12.16-05.03.45:558][ 16]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2021.12.16-05.03.45:558][ 16]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2021.12.16-05.03.45:558][ 16]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2021.12.16-05.03.45:559][ 16]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2021.12.16-05.03.45:559][ 16]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2021.12.16-05.03.45:559][ 16]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2021.12.16-05.03.45:559][ 16]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2021.12.16-05.03.45:559][ 16]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2021.12.16-05.03.45:559][ 16]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2021.12.16-05.03.45:559][ 16]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (834)
+[2021.12.16-05.03.45:559][ 16]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (832)
+[2021.12.16-05.03.45:559][ 16]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (830)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module PlanarCut (826)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (824)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (822)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (820)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (818)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module WebMMedia (816)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (814)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (812)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module SequenceRecorder (811)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (808)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (806)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (804)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (802)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (800)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (798)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (796)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module CharacterAI (794)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (792)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (790)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (788)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2021.12.16-05.03.45:561][ 16]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2021.12.16-05.03.45:562][ 16]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2021.12.16-05.03.45:562][ 16]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2021.12.16-05.03.45:562][ 16]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2021.12.16-05.03.45:562][ 16]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2021.12.16-05.03.45:562][ 16]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2021.12.16-05.03.45:562][ 16]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2021.12.16-05.03.45:562][ 16]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2021.12.16-05.03.45:562][ 16]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2021.12.16-05.03.45:562][ 16]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2021.12.16-05.03.45:562][ 16]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2021.12.16-05.03.45:562][ 16]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2021.12.16-05.03.45:562][ 16]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2021.12.16-05.03.45:563][ 16]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2021.12.16-05.03.45:563][ 16]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2021.12.16-05.03.45:563][ 16]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2021.12.16-05.03.45:563][ 16]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2021.12.16-05.03.45:563][ 16]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2021.12.16-05.03.45:564][ 16]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2021.12.16-05.03.45:564][ 16]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2021.12.16-05.03.45:564][ 16]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2021.12.16-05.03.46:037][ 16]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2021.12.16-05.03.46:037][ 16]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2021.12.16-05.03.46:037][ 16]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2021.12.16-05.03.46:037][ 16]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2021.12.16-05.03.46:037][ 16]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2021.12.16-05.03.46:049][ 16]MemoryProfiler: Shutdown
+[2021.12.16-05.03.46:049][ 16]NetworkingProfiler: Shutdown
+[2021.12.16-05.03.46:049][ 16]LoadingProfiler: Shutdown
+[2021.12.16-05.03.46:049][ 16]TimingProfiler: Shutdown
+[2021.12.16-05.03.46:049][ 16]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2021.12.16-05.03.46:049][ 16]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2021.12.16-05.03.46:049][ 16]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2021.12.16-05.03.46:050][ 16]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2021.12.16-05.03.46:050][ 16]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2021.12.16-05.03.46:051][ 16]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2021.12.16-05.03.46:052][ 16]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2021.12.16-05.03.46:084][ 16]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2021.12.16-05.03.46:084][ 16]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2021.12.16-05.03.46:084][ 16]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2021.12.16-05.03.46:085][ 16]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2021.12.16-05.03.46:085][ 16]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2021.12.16-05.03.46:085][ 16]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2021.12.16-05.03.46:085][ 16]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2021.12.16-05.03.46:085][ 16]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2021.12.16-05.03.46:086][ 16]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2021.12.16-05.03.46:086][ 16]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2021.12.16-05.03.46:086][ 16]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2021.12.16-05.03.46:096][ 16]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2021.12.16-05.03.46:096][ 16]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2021.12.16-05.03.46:096][ 16]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2021.12.16-05.03.46:096][ 16]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2021.12.16-05.03.46:096][ 16]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2021.12.16-05.03.46:096][ 16]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2021.12.16-05.03.46:097][ 16]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2021.12.16-05.03.46:101][ 16]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2021.12.16-05.03.46:107][ 16]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2021.12.16-05.03.46:345][ 16]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2021.12.16-05.03.46:345][ 16]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2021.12.16-05.03.46:345][ 16]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2021.12.16-05.03.46:346][ 16]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2021.12.16-05.03.46:346][ 16]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (598)
+[2021.12.16-05.03.46:346][ 16]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (596)
+[2021.12.16-05.03.46:346][ 16]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (594)
+[2021.12.16-05.03.46:346][ 16]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2021.12.16-05.03.46:346][ 16]LogModuleManager: Shutting down and abandoning module TakeSequencer (590)
+[2021.12.16-05.03.46:346][ 16]LogModuleManager: Shutting down and abandoning module TakeMovieScene (588)
+[2021.12.16-05.03.46:346][ 16]LogModuleManager: Shutting down and abandoning module SynthesisEditor (586)
+[2021.12.16-05.03.46:346][ 16]LogModuleManager: Shutting down and abandoning module Synthesis (584)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (582)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (580)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module OpenXREditor (578)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (576)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module ScreenshotTools (574)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (568)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module AssetTags (560)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (544)
+[2021.12.16-05.03.46:347][ 16]LogOpenImageDenoise: OIDN shutting down
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (542)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module MotoSynth (540)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module MeshConversion (538)
+[2021.12.16-05.03.46:347][ 16]LogModuleManager: Shutting down and abandoning module DynamicMesh (536)
+[2021.12.16-05.03.46:348][ 16]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (534)
+[2021.12.16-05.03.46:348][ 16]LogModuleManager: Shutting down and abandoning module GeometricObjects (532)
+[2021.12.16-05.03.46:348][ 16]LogModuleManager: Shutting down and abandoning module MediaCompositing (530)
+[2021.12.16-05.03.46:348][ 16]LogModuleManager: Shutting down and abandoning module ImgMedia (528)
+[2021.12.16-05.03.46:348][ 16]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (526)
+[2021.12.16-05.03.46:348][ 16]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (525)
+[2021.12.16-05.03.46:348][ 16]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (522)
+[2021.12.16-05.03.46:348][ 16]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (520)
+[2021.12.16-05.03.46:348][ 16]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (518)
+[2021.12.16-05.03.46:348][ 16]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (516)
+[2021.12.16-05.03.46:348][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (514)
+[2021.12.16-05.03.46:348][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (512)
+[2021.12.16-05.03.46:348][ 16]LogModuleManager: Shutting down and abandoning module FractureEditor (510)
+[2021.12.16-05.03.46:349][ 16]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (508)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (506)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module ChaosNiagara (504)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (503)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (500)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (498)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (496)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (494)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module BackChannel (492)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (490)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module AutomationUtils (488)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (486)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module AlembicImporter (484)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module AlembicLibrary (483)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module GeometryCache (482)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (481)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (476)
+[2021.12.16-05.03.46:350][ 16]LogModuleManager: Shutting down and abandoning module PluginBrowser (474)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (472)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module CurveEditorTools (470)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (468)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module CryptoKeys (466)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (464)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (462)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (460)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (458)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module UObjectPlugin (456)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (454)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module PluginUtils (452)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (450)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module GitSourceControl (448)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (446)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module SourceControl (445)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (442)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (440)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (438)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (432)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (430)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (428)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (426)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (424)
+[2021.12.16-05.03.46:351][ 16]LogModuleManager: Shutting down and abandoning module LiveLink (422)
+[2021.12.16-05.03.47:038][ 16]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (420)
+[2021.12.16-05.03.47:038][ 16]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (418)
+[2021.12.16-05.03.47:038][ 16]LogModuleManager: Shutting down and abandoning module Paper2DEditor (416)
+[2021.12.16-05.03.47:038][ 16]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2021.12.16-05.03.47:038][ 16]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2021.12.16-05.03.47:038][ 16]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (410)
+[2021.12.16-05.03.47:038][ 16]LogModuleManager: Shutting down and abandoning module SoundFields (408)
+[2021.12.16-05.03.47:038][ 16]LogModuleManager: Shutting down and abandoning module SignificanceManager (406)
+[2021.12.16-05.03.47:038][ 16]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (404)
+[2021.12.16-05.03.47:038][ 16]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2021.12.16-05.03.47:038][ 16]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2021.12.16-05.03.47:038][ 16]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2021.12.16-05.03.47:038][ 16]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2021.12.16-05.03.47:038][ 16]LogModuleManager: Shutting down and abandoning module UdpMessaging (392)
+[2021.12.16-05.03.47:139][ 16]LogModuleManager: Shutting down and abandoning module TcpMessaging (390)
+[2021.12.16-05.03.47:240][ 16]LogModuleManager: Shutting down and abandoning module ActorSequence (388)
+[2021.12.16-05.03.47:240][ 16]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (386)
+[2021.12.16-05.03.47:240][ 16]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (384)
+[2021.12.16-05.03.47:240][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (382)
+[2021.12.16-05.03.47:240][ 16]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (380)
+[2021.12.16-05.03.47:240][ 16]LogModuleManager: Shutting down and abandoning module Niagara (378)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module SignalProcessing (377)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module NiagaraEditor (375)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module NiagaraCore (372)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (370)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (368)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (366)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (364)
+[2021.12.16-05.03.47:241][ 16]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (362)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (360)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (358)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (356)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapController (354)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (352)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module MagicLeapAR (350)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module DataValidation (348)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (346)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (344)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module FacialAnimation (342)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2021.12.16-05.03.47:241][ 16]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2021.12.16-05.03.47:242][ 16]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2021.12.16-05.03.47:242][ 16]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2021.12.16-05.03.47:242][ 16]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2021.12.16-05.03.47:243][ 16]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2021.12.16-05.03.47:243][ 16]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2021.12.16-05.03.47:243][ 16]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2021.12.16-05.03.47:243][ 16]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2021.12.16-05.03.47:243][ 16]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2021.12.16-05.03.47:243][ 16]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (320)
+[2021.12.16-05.03.47:244][ 16]LogModuleManager: Shutting down and abandoning module GameplayCameras (318)
+[2021.12.16-05.03.47:244][ 16]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (316)
+[2021.12.16-05.03.47:244][ 16]LogModuleManager: Shutting down and abandoning module AnimationSharing (314)
+[2021.12.16-05.03.47:244][ 16]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (312)
+[2021.12.16-05.03.47:244][ 16]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2021.12.16-05.03.47:244][ 16]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (308)
+[2021.12.16-05.03.47:244][ 16]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (306)
+[2021.12.16-05.03.47:245][ 16]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2021.12.16-05.03.47:245][ 16]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2021.12.16-05.03.47:245][ 16]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2021.12.16-05.03.47:245][ 16]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2021.12.16-05.03.47:245][ 16]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2021.12.16-05.03.47:245][ 16]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2021.12.16-05.03.47:245][ 16]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2021.12.16-05.03.47:245][ 16]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2021.12.16-05.03.47:246][ 16]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2021.12.16-05.03.47:246][ 16]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2021.12.16-05.03.47:246][ 16]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2021.12.16-05.03.47:246][ 16]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2021.12.16-05.03.47:246][ 16]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2021.12.16-05.03.47:246][ 16]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2021.12.16-05.03.47:246][ 16]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2021.12.16-05.03.47:247][ 16]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2021.12.16-05.03.47:247][ 16]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2021.12.16-05.03.47:247][ 16]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2021.12.16-05.03.47:247][ 16]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2021.12.16-05.03.47:247][ 16]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2021.12.16-05.03.47:249][ 16]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2021.12.16-05.03.47:249][ 16]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2021.12.16-05.03.47:249][ 16]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2021.12.16-05.03.47:249][ 16]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2021.12.16-05.03.47:249][ 16]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2021.12.16-05.03.47:249][ 16]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2021.12.16-05.03.47:249][ 16]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2021.12.16-05.03.47:249][ 16]LogModuleManager: Shutting down and abandoning module Core (248)
+[2021.12.16-05.03.47:249][ 16]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2021.12.16-05.03.47:249][ 16]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2021.12.16-05.03.47:249][ 16]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2021.12.16-05.03.47:250][ 16]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2021.12.16-05.03.47:250][ 16]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2021.12.16-05.03.47:251][ 16]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2021.12.16-05.03.47:251][ 16]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2021.12.16-05.03.47:251][ 16]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2021.12.16-05.03.47:251][ 16]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2021.12.16-05.03.47:251][ 16]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2021.12.16-05.03.47:251][ 16]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2021.12.16-05.03.47:251][ 16]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2021.12.16-05.03.47:252][ 16]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2021.12.16-05.03.47:252][ 16]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2021.12.16-05.03.47:252][ 16]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2021.12.16-05.03.47:252][ 16]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2021.12.16-05.03.47:252][ 16]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2021.12.16-05.03.47:252][ 16]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2021.12.16-05.03.47:252][ 16]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2021.12.16-05.03.47:252][ 16]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2021.12.16-05.03.47:253][ 16]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2021.12.16-05.03.47:254][ 16]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2021.12.16-05.03.47:254][ 16]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2021.12.16-05.03.47:254][ 16]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2021.12.16-05.03.47:254][ 16]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2021.12.16-05.03.47:254][ 16]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2021.12.16-05.03.47:255][ 16]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2021.12.16-05.03.47:255][ 16]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2021.12.16-05.03.47:255][ 16]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2021.12.16-05.03.47:255][ 16]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2021.12.16-05.03.47:255][ 16]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2021.12.16-05.03.47:255][ 16]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2021.12.16-05.03.47:255][ 16]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2021.12.16-05.03.47:255][ 16]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2021.12.16-05.03.47:255][ 16]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2021.12.16-05.03.47:256][ 16]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2021.12.16-05.03.47:259][ 16]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2021.12.16-05.03.47:259][ 16]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2021.12.16-05.03.47:259][ 16]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2021.12.16-05.03.47:259][ 16]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2021.12.16-05.03.47:259][ 16]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2021.12.16-05.03.47:259][ 16]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2021.12.16-05.03.47:259][ 16]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2021.12.16-05.03.47:259][ 16]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2021.12.16-05.03.47:259][ 16]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2021.12.16-05.03.47:259][ 16]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2021.12.16-05.03.47:259][ 16]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2021.12.16-05.03.47:259][ 16]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2021.12.16-05.03.47:259][ 16]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2021.12.16-05.03.47:259][ 16]LogHMD: Freeing OpenVRDLLHandle.
+[2021.12.16-05.03.47:260][ 16]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2021.12.16-05.03.47:260][ 16]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (108)
+[2021.12.16-05.03.47:260][ 16]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.12.16-05.03.47:260][ 16]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (106)
+[2021.12.16-05.03.47:260][ 16]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2021.12.16-05.03.47:260][ 16]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2021.12.16-05.03.47:260][ 16]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2021.12.16-05.03.47:261][ 16]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2021.12.16-05.03.47:261][ 16]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (96)
+[2021.12.16-05.03.47:261][ 16]LogModuleManager: Shutting down and abandoning module ChunkDownloader (94)
+[2021.12.16-05.03.47:261][ 16]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (92)
+[2021.12.16-05.03.47:261][ 16]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2021.12.16-05.03.47:262][ 16]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2021.12.16-05.03.47:262][ 16]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2021.12.16-05.03.47:279][ 16]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2021.12.16-05.03.47:279][ 16]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.12.16-05.03.47:279][ 16]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCA0B3FC0-477E-69F0-5526-ABBA5582C7C0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=d6e776cc41ae7d89a8c137a61d5d75bb%7C9576501937cb4a869995dc490230542c%7Cf794640a-025e-4a67-971d-9ec85962b5a4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.12.16-05.03.47:279][ 16]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.12.16-05.03.47:307][ 16]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2021.12.16-05.03.47:308][ 16]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2021.12.16-05.03.47:310][ 16]LogModuleManager: Shutting down and abandoning module Media (73)
+[2021.12.16-05.03.47:310][ 16]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2021.12.16-05.03.47:310][ 16]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module ChaosCloth (64)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module AISupportModule (52)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module PixWinPlugin (50)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2021.12.16-05.03.47:311][ 16]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2021.12.16-05.03.47:311][ 16]LogXGEController: Cleaning working directory: C:/Users/shslady/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.12.16-05.03.47:312][ 16]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2021.12.16-05.03.47:312][ 16]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2021.12.16-05.03.47:313][ 16]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2021.12.16-05.03.47:313][ 16]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2021.12.16-05.03.47:313][ 16]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2021.12.16-05.03.47:313][ 16]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2021.12.16-05.03.47:313][ 16]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2021.12.16-05.03.47:315][ 16]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.12.16-05.03.47:315][ 16]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.12.16-05.03.47:315][ 16]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.12.16-05.03.47:315][ 16]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.12.16-05.03.47:315][ 16]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.12.16-05.03.47:315][ 16]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.12.16-05.03.47:315][ 16]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.12.16-05.03.47:316][ 16]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.12.16-05.03.47:316][ 16]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.12.16-05.03.47:316][ 16]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.12.16-05.03.47:316][ 16]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.12.16-05.03.47:344][ 16]LogD3D11RHI: Shutdown
+[2021.12.16-05.03.47:344][ 16]LogD3D11RHI: CleanupD3DDevice
+[2021.12.16-05.03.47:346][ 16]LogExit: Exiting.
+[2021.12.16-05.03.47:353][ 16]Log file closed, 12/16/21 12:03:47
